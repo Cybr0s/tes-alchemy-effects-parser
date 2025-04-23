@@ -1,0 +1,2837 @@
+Abecean Longfin NAME
+    Weakness to Frost
+    Fortify Sneak
+    Weakness to Poison
+    Fortify Restoration
+Adamantium Ore NAME
+    Burden
+    Restore Magicka
+    Poison
+    Reflect
+Ahm Galath NAME
+    Increase Lethal Strike
+    Increase Lethal Strike
+Alit Hide NAME
+    Drain Intelligence
+    Resist Poison
+    Telekinesis
+    Detect Animal
+Alkanet Flower NAME
+    Restore Intelligence
+    Resist Poison
+    Light
+    Damage Fatigue
+Alocasia Fruit NAME
+    Restore Fatigue
+    Light
+    Restore Health
+    Damage Magicka
+    Regenerate Stamina
+    Light
+    Ravage Magicka
+    Regenerate Health
+Aloe Vera Leaves NAME
+    Heal Health
+    Heal Health
+    Restore Health
+    Restore Health
+    Restore Fatigue
+    Restore Health
+    Damage Magicka
+    Invisibility
+    Restore Health
+    Restore Stamina
+    Damage Magicka
+    Invisibility
+Amber NAME
+    Resist Fire
+    Resist Fire
+Ambrosia NAME
+    Restore Health
+    Restore Health
+    Restore Health
+    Regenerate Health
+    Fortify Health
+    Cure Poison
+Ampoule Pod NAME
+    Water Walking
+    Paralyze
+    Detect Animal
+    Drain Willpower
+Ancestor Moth Wing NAME
+    Damage Stamina
+    Fortify Conjuration
+    Damage Magicka Regen
+    Fortify Enchanting
+Angelfish NAME
+    Regenerate Health
+    Resist Fire
+    Fortify Marksman
+    Waterbreathing
+Angler Larva NAME
+    Lingering Damage Health
+    Regenerate Stamina
+    Waterbreathing
+    Fortify Two-handed
+Antlers NAME
+    Restore Stamina
+    Fortify Stamina
+    Slow
+    Damage Stamina Regen
+    Weakness to Poison
+    Fortify Restoration
+    Lingering Damage Stamina
+    Damage Health
+Apple NAME
+    Restore Fatigue
+    Damage Luck
+    Fortify Willpower
+    Damage Health
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Arrowroot NAME
+    Restore Agility
+    Damage Luck
+    Fortify Strength
+    Burden
+Ash Creep Cluster NAME
+    Damage Stamina
+    Invisibility
+    Resist Fire
+    Fortify Destruction
+Ash Hopper Jelly NAME
+    Restore Health
+    Fortify Light Armor
+    Resist Shock
+    Weakness to Frost
+Ash Salt NAME
+    Drain Agility
+    Resist Magicka
+    Cure Blight Disease
+    Resist Magicka
+Ash Yam NAME
+    Fortify Intelligence
+    Fortify Strength
+    Resist Common Disease
+    Detect Key
+    Restore Health
+    Restore Health
+Ashen Grass Pod NAME
+    Resist Fire
+    Weakness to Shock
+    Fortify Lockpicking
+    Fortify Sneak
+Ashen Remains NAME
+    Fortify Fatigue
+    Damage Luck
+    Silence
+    Weakness to Fire
+Aster Bloom Core NAME
+    Restore Agility
+    Dispel
+    Shield
+    Burden
+    Resist Magic
+    Fortify Light Armor
+    Fortify Block
+    Paralysis
+Azra Root NAME
+    Add Intelligence
+
+
+Damage Endurance
+
+
+Damage Strength
+    Add Intelligence
+    Damage Endurance
+    Damage Strength
+Bamboo NAME
+    Heal Stamina
+    Heal Stamina
+Basilisk's eye NAME
+    Cure Paralysis
+    Cure Paralysis
+Bear Claws NAME
+    Restore Stamina
+    Fortify Health
+    Fortify One-handed
+    Damage Magicka Regen
+Bear Pelt NAME
+    Drain Fatigue
+    Fortify Strength
+    Resist Common Disease
+    Night Eye
+Beating Heart NAME
+    Cannibal Consumption
+    Cannibal Consumption
+Bee NAME
+    Restore Stamina
+    Ravage Stamina
+    Regenerate Stamina
+    Weakness to Shock
+Beef NAME
+    Restore Fatigue
+    Shield
+    Fortify Agility
+    Dispel
+    Restore Health
+    Restore Health
+Beehive Husk NAME
+    Resist Poison
+    Fortify Light Armor
+    Fortify Sneak
+    Fortify Destruction
+Beetle Scuttle NAME
+    Restore Fatigue
+    Fortify Fatigue
+    Feather
+    Telekinesis
+    Breach
+    Increase Armor
+    Protection
+    Vitality
+Belladonna Berries NAME
+    Resist Magicka
+    Restore Magicka
+    Fortify Magicka
+    Drain Magicka
+Bergamot Seeds NAME
+    Resist Disease
+    Dispel
+    Damage Magicka
+    Silence
+Berit's Ashes NAME
+Bervez Juice NAME
+    Restore Health
+
+
+Restore Fatigue
+    Restore Health
+    Restore Fatigue
+Big tooth NAME
+Bitter Tea NAME
+    Increase Endurance
+
+
+Damage Agility
+
+
+Damage Intelligence
+    Increase Endurance
+    Damage Agility
+    Damage Intelligence
+    Magicka Recovery
+    Magicka Recovery
+Bittergreen Petals NAME
+    Restore Intelligence
+    Invisibility
+    Drain Endurance
+    Drain Magicka
+    Lingering Damage Stamina
+    Invisibility
+    Cure Poison
+    Damage Magicka
+Black Anther NAME
+    Drain Agility
+    Resist Fire
+    Drain Endurance
+    Light
+Black Lichen NAME
+    Drain Strength
+    Resist Frost
+    Drain Speed
+    Cure Poison
+Black Mushroom NAME
+    Increase Armor Value
+    Increase Armor Value
+Black poppy NAME
+    Damage Spell Points
+    Damage Spell Points
+Black rose NAME
+    Silence
+    Silence
+Black Tar NAME
+    Damage Fatigue
+    Damage Speed
+    Damage Health
+    Shock Damage
+Blackberry NAME
+    Restore Fatigue
+    Resist Shock
+    Fortify Endurance
+    Restore Magicka
+Bleeding Crown NAME
+    Weakness to Fire
+    Fortify Block
+    Weakness to Poison
+    Resist Magic
+Blessed Thistle NAME
+    Restore Stamina
+    Increase Weapon Power
+    Ravage Health
+    Speed
+Blind Watcher's Eye NAME
+    Restore Intelligence
+    Fortify Magicka
+    Light
+    Reflect Spell
+    Light
+    Fortify Magicka
+    Fortify Alteration
+    Spell Absorption
+Bliss Bug Thorax NAME
+    Weakness to Fire
+    Resist Fire
+    Fortify Heavy Armor
+    Fortify Illusion
+Blister Pod Cap NAME
+    Restore Magicka
+    Fortify Magicka
+    Night-Eye
+    Invisibility
+    Restore Magicka
+    Fortify Magicka
+    Night Eye
+    Invisibility
+Blisterwort NAME
+    Damage Stamina
+    Frenzy
+    Restore Health
+    Fortify Smithing
+Bloat NAME
+    Drain Magicka
+    Fortify Intelligence
+    Fortify Willpower
+    Detect Animal
+Blood of an Innocent NAME
+Bloodgrass NAME
+    Chameleon
+    Resist Paralysis
+    Burden
+    Fortify Health
+    Invisibility
+    Resist Poison
+    Slow
+    Fortify Health
+Blue Butterfly Wing NAME
+    Damage Stamina
+    Fortify Conjuration
+    Damage Magicka Regen
+    Fortify Enchanting
+Blue Dartwing NAME
+    Resist Shock
+    Fortify Pickpocket
+    Restore Health
+    Fear
+Blue Entoloma NAME
+    Ravage Magicka
+    Cowardice
+    Restore Health
+    Invisible
+Blue Mountain Flower NAME
+    Restore Health
+    Fortify Conjuration
+    Fortify Health
+    Damage Magicka Regen
+Boar Meat NAME
+    Restore Health
+    Damage Speed
+    Fortify Health
+    Burden
+    Restore Health
+    Restore Health
+Boar Tusk NAME
+    Fortify Stamina
+    Fortify Health
+    Fortify Block
+    Frenzy
+Bog Beacon Asco Cap NAME
+    Restore Magicka
+    Shield
+    Damage Personality
+    Damage Endurance
+    Restore Magicka
+    Fortify Heavy Armor
+    Fear
+    Damage Stamina
+Bone Marrow NAME
+    Damage Health
+    Frost Damage
+    Damage Magicka
+    Paralyze
+Bone Shard NAME
+    Restore Willpower
+    Frost Shield
+    Damage Magicka
+    Damage Luck
+Bone Meal NAME
+    Restore Agility
+    Telekinesis
+    Drain Fatigue
+    Drain Personality
+    Damage Fatigue
+    Resist Fire
+    Fortify Luck
+    Night-Eye
+    Damage Stamina
+    Resist Fire
+    Fortify Conjuration
+    Ravage Stamina
+Bounder Skin NAME
+    Increase Armor
+
+
+Increase Defense
+
+
+Increase Strength
+    Increase Armor
+    Increase Defense
+    Increase Strength
+Brass NAME
+    Jumping
+    Jumping
+Bread NAME
+    Restore Fatigue
+    Restore Fatigue
+    Restore Fatigue
+    Restore Fatigue
+    Restore Fatigue
+    Detect Life
+    Damage Agility
+    Damage Strength
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Briar Heart NAME
+    Restore Magicka
+    Fortify Block
+    Paralysis
+    Fortify Magicka
+Bristleback Leather NAME
+    Blind
+    Frost Damage
+    Resist Frost
+    Recall
+Bugloss NAME
+    Increase Spell Resist
+    Restore Health
+    Cowardice
+    Restore Magicka
+Bungler's Bane NAME
+    Drain Speed
+    Drain Endurance
+    Drain Strength
+    Slow
+    Ravage Stamina
+    Damage Stamina Regen
+    Resist Magic
+Burnt Spriggan Wood NAME
+    Weakness to Fire
+    Fortify Alteration
+    Damage Magicka Regen
+    Slow
+Butterfly Wing NAME
+    Restore Health
+    Fortify Barter
+    Lingering Damage Stamina
+    Damage Magicka
+    Restore Health
+    Uncertainty
+    Lingering Health
+    Vitality
+Cactus NAME
+    Resist Magicka
+    Resist Magicka
+Cairn Bolete Cap NAME
+    Restore Health
+    Damage Intelligence
+    Resist Paralysis
+    Shock Damage
+Canis Root NAME
+    Damage Stamina
+    Fortify One-handed
+    Fortify Marksman
+    Paralysis
+Carrot NAME
+    Restore Fatigue
+    Night-Eye
+    Fortify Intelligence
+    Damage Endurance
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Carrot of Seeing NAME
+Charred Skeever Hide NAME
+    Restore Stamina
+    Cure Disease
+    Resist Poison
+    Restore Health
+Chaurus Eggs NAME
+    Weakness to Poison
+    Fortify Stamina
+    Damage Magicka
+    Invisibility
+Chaurus Hunter Antennae NAME
+    Damage Stamina
+    Fortify Conjuration
+    Damage Magicka Regen
+    Fortify Enchanting
+Cheese Wedge NAME
+    Restore Fatigue
+    Resist Fire
+    Fire Shield
+    Damage Agility
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Cheese Wheel NAME
+    Restore Fatigue
+    Resist Paralysis
+    Damage Luck
+    Fortify Willpower
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Chicken's Egg NAME
+    Resist Magic
+    Damage Magicka Regen
+    Waterbreathing
+    Lingering Damage Stamina
+Chokeberry NAME
+    Poison Fruit
+    Poison Fruit
+    Damage Health
+    Ravage Health
+    Lingering Damage Health
+    Weakness to Poison
+Chokeweed NAME
+    Drain Luck
+    Restore Fatigue
+    Cure Common Disease
+    Drain Willpower
+    Weakness to Frost
+    Restore Stamina
+    Cure Disease
+    Damage Magicka
+Cinnabar Polypore Red Cap NAME
+    Restore Agility
+    Shield
+    Damage Personality
+    Damage Endurance
+Cinnabar Polypore Yellow Cap NAME
+    Restore Endurance
+    Fortify Endurance
+    Damage Personality
+    Reflect Spell
+Clam Gall NAME
+    Increase Spell Resist
+    Hindrance
+    Vulnerability
+    Defile
+Clannfear Claws NAME
+    Cure Disease
+    Resist Disease
+    Paralyze
+    Damage Health
+Clawrunner Skin NAME
+    Increase Armor
+
+
+Increase Defense
+
+
+Increase Strength
+    Increase Armor
+    Increase Defense
+    Increase Strength
+Clouded Funnel Cap NAME
+    Restore Intelligence
+    Fortify Intelligence
+    Damage Endurance
+    Damage Magicka
+Clover NAME
+    Increase Luck
+    Increase Luck
+Coda Flower NAME
+    Drain Personality
+    Levitate
+    Drain Intelligence
+    Drain Health
+    Damage Health
+    Lingering Damage Stamina
+    Ravage Magicka
+    Fortify Carry Weight
+Columbine NAME
+    Restore Personality
+    Resist Frost
+    Fortify Magicka
+    Chameleon
+    Restore Health
+    Restore Magicka
+    Restore Stamina
+    Unstoppable
+Comberry NAME
+    Drain Fatigue
+    Restore Magicka
+    Fire Shield
+    Reflect
+    Damage Stamina
+    Spell Absorption
+    Restore Magicka
+    Fortify Destruction
+Congealed Putrescence NAME
+    Restore Strength
+    Fire Damage
+    Restore Magicka
+    Damage Health
+    Ravage Health
+    Restore Magicka
+    Weakness to Fire
+    Fortify Conjuration
+Copper NAME
+    Detect Magic
+    Detect Magic
+Corkbulb Root NAME
+    Cure Paralyzation
+    Restore Health
+    Lightning Shield
+    Fortify Luck
+    Paralysis
+    Restore Health
+    Resist Shock
+    Fortify Marksman
+Corn NAME
+    Restore Fatigue
+    Restore Intelligence
+    Damage Agility
+    Shock Shield
+Corn Flower NAME
+    Restore Magicka
+    Increase Spell Power
+    Ravage Health
+    Detection
+Corprus Weepings NAME
+    Drain Fatigue
+    Fortify Luck
+    Drain Willpower
+    Restore Health
+Corprusmeat NAME
+    Drain Fatigue
+    Drain Health
+    Drain Magicka
+Crab Meat NAME
+    Restore Fatigue
+    Resist Shock
+    Lightning Shield
+    Restore Luck
+    Restore Endurance
+    Resist Shock
+    Damage Fatigue
+    Fire Shield
+    Restore Health
+    Restore Health
+Creep Cluster NAME
+    Restore Magicka
+    Damage Stamina Regen
+    Fortify Carry Weight
+    Weakness to Magic
+Crimson Nirnroot NAME
+    Damage Health
+    Damage Stamina
+    Invisibility
+    Resist Magic
+    Timidity
+    Spell Critical
+    Gradual Ravage Health
+    Restore Health
+Cyrodilic Spadetail NAME
+    Damage Stamina
+    Fortify Restoration
+    Fear
+    Ravage Health
+Daedra Heart NAME
+    Increase Willpower
+    Increase Willpower
+    Damage Health
+    Damage Health
+    Restore Magicka
+    Fortify Endurance
+    Drain Agility
+    Night Eye
+    Restore Health
+    Shock Shield
+    Damage Magicka
+    Silence
+    Restore Health
+    Damage Stamina Regen
+    Damage Magicka
+    Fear
+Daedra Silk NAME
+    Burden
+    Night-Eye
+    Chameleon
+    Damage Endurance
+    Lingering Damage Stamina
+    Paralysis
+    Night Eye
+    Invisibility
+Daedra Skin NAME
+    Fortify Strength
+    Cure Common Disease
+    Paralyze
+    Swift Swim
+Daedra Venin NAME
+    Paralyze
+    Restore Fatigue
+    Damage Health
+    Reflect Damage
+    Ravage Health
+    Paralysis
+    Fortify Destruction
+    Spell Absorption
+Daedroth Sac NAME
+    Fortify Defense
+    Fortify Defense
+Daedroth Teeth NAME
+    Night-Eye
+    Frost Shield
+    Burden
+    Light
+    Resist Frost
+    Light
+    Damage Magicka Regen
+    Regenerate Stamina
+Deathbell NAME
+    Damage Health
+    Ravage Stamina
+    Slow
+    Weakness to Poison
+    Resist Poison
+    Weakness to Poison
+Deathsnow Dust NAME
+    Increase Attack
+    Increase Attack
+    Damage
+    Damage
+Deformed Swamp Tentacle NAME
+Diamond NAME
+    Spell Resistance
+    Spell Resistance
+    Drain Agility
+    Invisibility
+    Reflect
+    Detect Key
+Dog Food NAME
+    Fortify Health
+    Damage Fatigue
+    Dispel
+    Damage Magicka
+Dragon Claw NAME
+Dragon Rheum NAME
+    Restore Magicka
+    Heroism
+    Enervation
+    Speed
+Dragon's Bile NAME
+    Heroism
+    Vulnerability
+    Invisible
+    Vitality
+Dragon's Blood NAME
+    Lingering Health
+    Restore Stamina
+    Heroism
+    Defile
+Dragon's scales NAME
+    Spell Absorption
+    Spell Absorption
+Dragon's Tongue NAME
+    Resist Fire
+    Damage Health
+    Restore Health
+    Fire Shield
+    Resist Fire
+    Fortify Barter
+    Fortify Illusion
+    Fortify Two-handed
+Dragonthorn NAME
+    Increase Weapon Power
+    Restore Stamina
+    Fracture
+    Weapon Critical
+Dreugh Wax NAME
+    Fortify Strength
+    Restore Strength
+    Drain Luck
+    Drain Willpower
+    Damage Fatigue
+    Resist Poison
+    Water Breathing
+    Damage Health
+    Weakness to Magic
+    Frenzy
+    Fortify Enchanting
+    Fortify Smithing
+Dry Juniper Leaf NAME
+Dryad Saddle Polypore Cap NAME
+    Restore Luck
+    Resist Frost
+    Damage Speed
+    Frost Damage
+Durzog Meat NAME
+    Fortify Agility
+    Fortify Strength
+    Blind
+    Damage Magicka
+Dwarven Oil NAME
+    Fortify Acrobatics
+
+
+Damage Health
+    Fortify Acrobatics
+    Damage Health
+    Weakness to Magic
+    Fortify Illusion
+    Regenerate Magicka
+    Restore Magicka
+Earth Moss NAME
+    Increase Agility
+
+
+Damage Endurance
+
+
+Damage Strength
+    Increase Agility
+    Damage Endurance
+    Damage Strength
+Ectoplasm NAME
+    Etherealness
+    Etherealness
+    Fortify Agility
+    Detect Animal
+    Drain Strength
+    Drain Health
+    Shock Damage
+    Dispel
+    Fortify Magicka
+    Damage Health
+    Restore Magicka
+    Fortify Destruction
+    Fortify Magicka
+    Damage Health
+Elf Cup Cap NAME
+    Damage Willpower
+    Cure Disease
+    Fortify Strength
+    Damage Intelligence
+Elixir vitae NAME
+Elves Ear NAME
+    Restore Magicka
+    Fortify Marksman
+    Weakness to Frost
+    Resist Fire
+Elytra Ichor NAME
+    Restore Magicka
+    Burden
+    Chameleon
+    Silence
+    Restore Magicka
+    Invisibility
+    Slow
+    Fear
+Emerald NAME
+    Chameleon
+    Chameleon
+    Fortify Magicka
+    Restore Health
+    Drain Agility
+    Drain Endurance
+Emetic Russula NAME
+    Restore Agility
+    Shield
+    Damage Personality
+    Damage Endurance
+    Ravage Health
+    Ravage Magicka
+    Ravage Stamina
+    Entrapment
+Emperor Parasol Moss NAME
+    Damage Health
+    Fortify Magicka
+    Regenerate Health
+    Fortify Two-handed
+Eye of Sabre Cat NAME
+    Restore Stamina
+    Ravage Health
+    Damage Magicka
+    Restore Health
+Fairy dragon's scales NAME
+    Spell Reflection
+    Spell Reflection
+Falmer Ear NAME
+    Damage Health
+    Frenzy
+    Resist Poison
+    Fortify Lockpicking
+Felldew NAME
+    Felldew Effect
+    Felldew Effect
+Felsaad Tern Feathers NAME
+    Restore Health
+    Fortify Light Armor
+    Cure Disease
+    Resist Magic
+Fennel Seeds NAME
+    Restore Fatigue
+    Damage Intelligence
+    Damage Magicka
+    Paralyze
+Fig NAME
+    Resist Fire
+    Resist Fire
+Fine-Cut Void Salts NAME
+Fire Petal NAME
+    Resist Fire
+    Drain Health
+    Spell Absorption
+    Paralyze
+    Damage Health
+    Resist Fire
+    Spell Absorption
+    Paralysis
+Fire Salts NAME
+    Drain Health
+    Fortify Agility
+    Resist Frost
+    Fire Shield
+    Fire Damage
+    Resist Frost
+    Restore Magicka
+    Fire Shield
+    Weakness to Frost
+    Resist Fire
+    Restore Magicka
+    Regenerate Magicka
+    Resist Fire
+    Weakness to Fire
+Flame Stalk NAME
+    Restore Health
+    Fire Damage
+    Frost Shield
+    Invisibility
+    Restore Health
+    Resist Frost
+    Weakness to Fire
+    Invisibility
+Flaming Eye of the Lightkeeper NAME
+Flax Seeds NAME
+    Restore Magicka
+    Feather
+    Shield
+    Damage Health
+Fleshfly Larva NAME
+    Ravage Stamina
+    Vulnerability
+    Gradual Ravage Health
+    Vitality
+Floater Sac NAME
+    Increase Magic Resistance
+    Increase Magic Resistance
+Flour NAME
+    Restore Fatigue
+    Damage Personality
+    Fortify Fatigue
+    Reflect Damage
+    Restore Health
+    Restore Health
+Fly Amanita NAME
+    Restore Agility
+    Burden
+    Restore Health
+    Shock Damage
+    Resist Fire
+    Fortify Two-handed
+    Frenzy
+    Regenerate Stamina
+Fox Herb NAME
+    Increase Precise Magic
+    Increase Precise Magic
+Foxglove Nectar NAME
+    Resist Poison
+    Resist Paralysis
+    Restore Luck
+    Resist Disease
+Frost Mirriam NAME
+    Resist Frost
+    Fortify Sneak
+    Ravage Magicka
+    Damage Stamina Regen
+Frost Salts NAME
+    Drain Speed
+    Restore Magicka
+    Frost Shield
+    Resist Fire
+    Frost Damage
+    Resist Fire
+    Silence
+    Frost Shield
+    Weakness to Fire
+    Resist Frost
+    Restore Magicka
+    Fortify Conjuration
+    Resist Frost
+    Weakness to Frost
+Fungus Stalk NAME
+    Restore Strength
+    Water Walking
+    Fortify Health
+    Restore Magicka
+    Restore Magicka
+    Fortify Health
+    Fortify Stamina
+    Waterbreathing
+Garlic NAME
+    Resist Disease
+    Damage Agility
+    Frost Shield
+    Fortify Strength
+    Resist Poison
+    Fortify Stamina
+    Regenerate Magicka
+    Regenerate Health
+Ghost Flame NAME
+    Drain Fatigue
+    Drain Fatigue
+Ghoul Heart NAME
+    Paralyze
+    Cure Poison
+    Fortify Attack
+Ghoul's tongue NAME
+    Tongues
+    Tongues
+Giant Lichen NAME
+    Weakness to Shock
+    Ravage Health
+    Weakness to Poison
+    Restore Magicka
+Giant scorpion stinger NAME
+Giant's blood NAME
+    Diminution
+    Diminution
+Giant's Toe NAME
+    Damage Stamina
+    Fortify Health
+    Fortify Carry Weight
+    Damage Stamina Regen
+Gingko Leaf NAME
+    Cure Disease
+    Cure Disease
+    Restore Speed
+    Fortify Magicka
+    Damage Luck
+    Shock Damage
+Ginseng NAME
+    Damage Luck
+    Cure Poison
+    Burden
+    Fortify Magicka
+Girith's Guar Hide NAME
+Glacier Flower NAME
+    Increase Luck
+
+
+Drain Fatigue
+    Increase Luck
+    Drain Fatigue
+Glacier Moss NAME
+    Increase Willpower
+
+
+Drain Fatigue
+    Increase Willpower
+    Drain Fatigue
+Glassfish NAME
+    Restore Magicka
+    Invisibility
+    Fortify Illusion
+    Fortify Persuasion
+Gleamblossom NAME
+    Resist Magic
+    Fear
+    Regenerate Health
+    Paralysis
+Glow Dust NAME
+    Restore Speed
+    Light
+    Reflect Spell
+    Damage Health
+    Damage Magicka
+    Damage Magicka Regen
+    Fortify Destruction
+    Resist Shock
+    Restore Magicka
+    Damage Magicka Regeneration
+Glowing Mushroom NAME
+    Resist Shock
+    Fortify Destruction
+    Fortify Smithing
+    Fortify Health
+    Restore Health
+    Restore Health
+Gnarl Bark NAME
+    Restore Endurance
+    Shield
+    Fire Shield
+    Damage Health
+    Damage Health
+    Regenerate Health
+    Fortify Heavy Armor
+    Resist Fire
+Goblin Wax NAME
+    Increase Speed
+
+
+Damage Personality
+
+
+Damage Strength
+    Increase Speed
+    Damage Personality
+    Damage Strength
+Gold NAME
+    Charm Mortal
+    Charm Mortal
+Gold Kanet NAME
+    Drain Health
+    Burden
+    Drain Luck
+    Restore Strength
+    Paralysis
+    Ravage Health
+    Weakness to Frost
+    Fortify Smithing
+Golden poppy NAME
+    Charm Mortal
+    Charm Mortal
+Golden Sedge Flowers NAME
+    Drain Magicka
+    Fortify Strength
+    Fortify Attack
+    Swift Swim
+Goldfish NAME
+    Restore Stamina
+    Fortify Heavy Armor
+    Waterbreathing
+    Resist Frost
+Gorgon snake NAME
+    Climbing
+    Climbing
+Grahl Eyeball NAME
+    Resist Frost
+    Night Eye
+    Drain Magicka
+    Fortify Strength
+Grapes NAME
+    Restore Fatigue
+    Water Walking
+    Dispel
+    Damage Health
+Grass Pod NAME
+    Resist Poison
+    Ravage Magicka
+    Fortify Alteration
+    Restore Magicka
+Gravedust NAME
+    Drain Intelligence
+    Cure Common Disease
+    Drain Magicka
+    Restore Endurance
+Gravetar NAME
+    Resist Frost
+    Drain Health
+    Fortify Fatigue
+    Drain Luck
+Gray Mushroom NAME
+    Increase Speed
+    Increase Speed
+Green berries NAME
+    Damage Health
+    Damage Health
+Green Butterfly Wing NAME
+    Restore Magicka
+    Fear
+    Slow
+    Invisibility
+Green leaves NAME
+    Jumping
+    Jumping
+Green Lichen NAME
+    Fortify Personality
+    Cure Common Disease
+    Drain Strength
+    Drain Health
+Green Stain Cup Cap NAME
+    Restore Fatigue
+    Damage Speed
+    Reflect Damage
+    Damage Health
+Green Stain Shelf Cap NAME
+    Restore Luck
+    Fortify Luck
+    Damage Fatigue
+    Restore Health
+Greenmote NAME
+    Greenmote Rapture
+    Greenmote Rapture
+Grummite Eggs NAME
+    Damage Magicka
+    Dispel
+    Chameleon
+    Silence
+Gryphon's feather NAME
+    Slowfall
+    Slowfall
+Guar Hide NAME
+    Drain Fatigue
+    Fortify Endurance
+    Restore Personality
+    Fortify Luck
+Hackle-Lo Leaf NAME
+    Restore Fatigue
+    Paralyze
+    Water Breathing
+    Restore Luck
+    Restore Stamina
+    Paralysis
+    Waterbreathing
+    Fortify Restoration
+Hagraven Claw NAME
+    Resist Magic
+    Lingering Damage Magicka
+    Fortify Enchanting
+    Fortify Barter
+Hagraven Feathers NAME
+    Damage Magicka
+    Fortify Conjuration
+    Frenzy
+    Weakness to Shock
+Ham NAME
+    Restore Fatigue
+    Restore Health
+    Damage Magicka
+    Damage Luck
+Hanging Moss NAME
+    Damage Magicka
+    Fortify Health
+    Damage Magicka Regen
+    Fortify One-handed
+Harrada NAME
+    Damage Health
+    Damage Magicka
+    Silence
+    Paralyze
+    Damage Health
+    Damage Magicka
+    Paralysis
+    Damage Magicka Regen
+Hawk Beak NAME
+    Restore Stamina
+    Resist Frost
+    Fortify Carry Weight
+    Resist Shock
+Hawk Feathers NAME
+    Cure Disease
+    Fortify Light Armor
+    Fortify One-handed
+    Fortify Sneak
+Hawk's Egg NAME
+    Resist Magic
+    Damage Magicka Regen
+    Waterbreathing
+    Lingering Damage Stamina
+Heart of Order NAME
+Heart of Order NAME
+    Jyggalag's Favor
+    Jyggalag's Favor
+    Restore Health
+    Fortify Health
+    Fortify One-handed
+    Fortify Two-handed
+Heart of the Udyrfrykte NAME
+Heart of the Wolf NAME
+Heartwood NAME
+    Restore Magicka
+    Fortify Agility
+    Drain Strength
+    Weakness to Fire
+Heather NAME
+    Restore Personality
+    Feather
+    Drain Speed
+    Drain Personality
+Histcarp NAME
+    Restore Stamina
+    Fortify Magicka
+    Damage Stamina Regen
+    Waterbreathing
+Holly Berries NAME
+    Resist Frost
+    Frost Shield
+    Frost Damage
+    Weakness to Fire
+Honeycomb NAME
+    Restore Stamina
+    Fortify Block
+    Fortify Light Armor
+    Ravage Stamina
+    Restore Stamina
+    Damage Stamina Regeneration
+Horker Tusk NAME
+    Drain Alteration
+    Fortify Intelligence
+    Fortify Maximum Magicka
+    Detect Animal
+Horn Lily Bulb NAME
+    Resist Paralysis
+    Drain Health
+    Restore Strength
+    Restore Endurance
+Horrid Tongue NAME
+    Increase Magic Resistance
+    Increase Magic Resistance
+Hound Meat NAME
+    Restore Fatigue
+    Fortify Fatigue
+    Reflect
+    Detect Enchantment
+    Restore Health
+    Restore Health
+Hound Tooth NAME
+    Cure Poison
+    Detect Life
+    Burden
+    Invisibility
+Human Flesh NAME
+    Fortify Health
+    Drain Intelligence
+    Drain Personality
+    Damage Health
+    Paralysis
+    Restore Magicka
+    Fortify Sneak
+Human Heart NAME
+    Restore Health
+    Shock Shield
+    Damage Magicka
+    Silence
+    Damage Health
+    Damage Magicka
+    Damage Magicka Regen
+    Frenzy
+Human Skin NAME
+    Damage Magicka
+    Resist Shock
+    Reflect Damage
+    Damage Health
+Hunger Tongue NAME
+    Cure Poison
+    Cure Disease
+    Fire Damage
+    Fortify Magicka
+    Weakness to Fire
+    Cure Disease
+    Cure Poison
+    Fortify Magicka
+Hydnum Azure Giant Spore NAME
+    Restore Endurance
+    Detect Life
+    Fortify Health
+    Frost Shield
+    Resist Frost
+    Fortify Health
+    Regenerate Health
+    Light
+Hypha Facia NAME
+    Drain Luck
+    Drain Agility
+    Drain Fatigue
+    Detect Enchantment
+    Weakness to Poison
+    Frenzy
+    Ravage Stamina
+    Resist Magic
+Ice Grape NAME
+    Increase Magic Resistance
+    Increase Magic Resistance
+Ice Wraith Teeth NAME
+    Weakness to Frost
+    Fortify Heavy Armor
+    Invisibility
+    Weakness to Fire
+Ichor NAME
+Imp Gall NAME
+    Fortify Personality
+    Cure Paralysis
+    Damage Health
+    Fire Damage
+    Damage Health
+    Weakness to Fire
+    Fortify Barter
+    Cure Poison
+Imp Stool NAME
+    Damage Health
+    Lingering Damage Health
+    Paralysis
+    Restore Health
+    Maim
+    Ravage Stamina
+    Increase Armor
+    Enervation
+    Restore Health
+    Damage Health Regeneration
+Iron Ore NAME
+    Slowfall
+    Slowfall
+Ironwood Fruit NAME
+    Restore Health
+    Resist Fire
+    Damage Stamina
+    Restore Magicka
+Ironwood Nut NAME
+    Restore Intelligence
+    Resist Fire
+    Damage Fatigue
+    Fortify Health
+Ivory NAME
+    Resist Cold
+    Resist Cold
+Jade NAME
+    Water Breathing
+    Water Breathing
+    Increase Defense
+    Increase Defense
+Jarrin Root NAME
+    Damage Health
+    Damage Magicka
+    Damage Stamina
+    Damage Magicka Regen
+Jazbay Grapes NAME
+    Weakness to Magic
+    Fortify Magicka
+    Regenerate Magicka
+    Ravage Health
+Jumbo Potato NAME
+Juniper Berries NAME
+    Weakness to Fire
+    Fortify Marksman
+    Regenerate Health
+    Damage Stamina Regen
+Juvenile Mudcrab NAME
+    Regenerate Stamina
+    Fortify Carry Weight
+    Cure Disease
+    Fortify Two-handed
+Kagouti Hide NAME
+    Drain Fatigue
+    Fortify Speed
+    Resist Common Disease
+    Night Eye
+    Lingering Damage Stamina
+    Night Eye
+    Fortify Carry Weight
+    Resist Shock
+Kresh Fiber NAME
+    Restore Luck
+    Fortify Personality
+    Drain Magicka
+    Drain Speed
+    Weakness to Magic
+    Slow
+    Fortify Sneak
+    Fortify Pickpocket
+Kwama Cuttle NAME
+    Resist Poison
+    Drain Fatigue
+    Water Walking
+    Water Breathing
+Kwama Egg NAME
+    Restore Fatigue
+    Paralyze
+    Frost Shield
+    Fortify Health
+    Restore Fatigue
+    Restore Fatigue
+Lady's Mantle Leaves NAME
+    Restore Health
+    Damage Endurance
+    Night-Eye
+    Feather
+Lady's Smock NAME
+    Restore Intelligence
+    Resist Fire
+    Damage Fatigue
+    Fortify Health
+    Increase Spell Power
+    Restore Magicka
+    Breach
+    Spell Critical
+Large Antlers NAME
+Large Kwama Egg NAME
+Lavender NAME
+    Restore Personality
+    Fortify Willpower
+    Restore Health
+    Damage Luck
+    Resist Magic
+    Fortify Stamina
+    Ravage Magicka
+    Fortify Conjuration
+Lead NAME
+    Slowfall
+    Slowfall
+Leek NAME
+    Restore Fatigue
+    Fortify Agility
+    Damage Personality
+    Damage Strength
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Letifer Orca Digestive Slime NAME
+    Damage Health
+    Damage Fatigue
+    Damage Magicka
+    Restore Fatigue
+Lettuce NAME
+    Restore Fatigue
+    Restore Luck
+    Fire Shield
+    Damage Personality
+Lich dust NAME
+    Increase Intelligence
+    Increase Intelligence
+Lichor NAME
+    Restore Magicka
+    Restore Magicka
+    Restore Magicka
+    Regenerate Magicka
+    Fortify Magicka
+    Spell Absorption
+Lloramor Spines NAME
+    Spell Absorption
+    Invisibility
+    Poison
+    Detect Enchantment
+Lock Dust NAME
+    Increase lock picking
+
+
+Increase disarm
+    Increase lock picking
+    Increase disarm
+Lodestone NAME
+    Jumping
+    Jumping
+Luminous Russula NAME
+    Water Breathing
+    Drain Fatigue
+    Poison
+    Lingering Damage Stamina
+    Lingering Damage Health
+    Waterbreathing
+    Fear
+    Ravage Stamina
+    Maim
+    Restore Health
+    Hindrance
+Luna Moth Wing NAME
+    Damage Magicka
+    Fortify Light Armor
+    Regenerate Health
+    Invisibility
+Lyretail Anthias NAME
+    Restore Magicka
+    Fortify Alteration
+    Fortify Conjuration
+    Fortify Carry Weight
+Malachite NAME
+    Silence
+    Silence
+Mana Ice NAME
+    Restore Magicka
+    Restore Magicka
+    Restore Magicka
+    Restore Magicka
+Mandrake Root NAME
+    Cure Disease
+    Resist Poison
+    Damage Agility
+    Fortify Willpower
+Marshmerrow NAME
+    Restore Health
+    Detect Enchantment
+    Drain Willpower
+    Drain Fatigue
+    Restore Health
+    Fortify Carry Weight
+    Weakness to Magic
+    Damage Stamina
+Marsus' Guar Hide NAME
+Meadow Rye NAME
+    Fortify Speed
+    Damage Health
+    Restore Speed
+    Drain Speed
+Medium tooth NAME
+Mercury NAME
+    Increase Speed
+    Increase Speed
+Meteor Slime NAME
+Milk Thistle Seeds NAME
+    Light
+    Frost Damage
+    Cure Paralysis
+    Paralyze
+Minotaur Horn NAME
+    Restore Willpower
+    Burden
+    Fortify Endurance
+    Resist Paralysis
+    Resist Poison
+    Damage Magicka Regen
+    Regenerate Health
+    Regenerate Magicka
+Monarch Butterfly Wing NAME
+Monkshood Root Pulp NAME
+    Restore Strength
+    Damage Intelligence
+    Fortify Endurance
+    Burden
+Moon Sugar NAME
+    Fortify Speed
+    Drain Endurance
+    Drain Luck
+    Weakness to Fire
+    Resist Frost
+    Restore Magicka
+    Regenerate Magicka
+Mora Tapinella NAME
+    Restore Magicka
+    Lingering Damage Health
+    Regenerate Stamina
+    Fortify Illusion
+Morning Glory Root Pulp NAME
+    Burden
+    Damage Willpower
+    Frost Shield
+    Damage Magicka
+Mort Flesh NAME
+    Damage Fatigue
+    Damage Luck
+    Fortify Health
+    Silence
+    Damage Health
+    Damage Magicka
+    Damage Magicka Regen
+    Frenzy
+Motherwort Sprig NAME
+    Resist Poison
+    Damage Fatigue
+    Silence
+    Invisibility
+Mountain Flower NAME
+    Increase Armor
+    Restore Health
+    Maim
+    Restore Stamina
+Mountain Jerky NAME
+    Restore Health
+
+
+Restore Magicka
+
+
+Restore Fatigue
+    Restore Health
+    Restore Magicka
+    Restore Fatigue
+Muck NAME
+    Drain Intelligence
+    Detect Key
+    Drain Personality
+    Cure Common Disease
+Mudcrab Chitin NAME
+    Restore Stamina
+    Cure Disease
+    Resist Poison
+    Resist Fire
+    Increase Spell Resist
+    Increase Armor
+    Protection
+    Defile
+Muffin NAME
+    Restore Fatigue
+    Restore Fatigue
+    Restore Fatigue
+    Restore Fatigue
+Mugwort Seeds NAME
+    Restore Health
+    Restore Health
+Mummy wrappings NAME
+    Detect Treasure
+    Detect Treasure
+Mute Screaming Maw NAME
+Mutton NAME
+    Fortify Health
+    Damage Fatigue
+    Dispel
+    Damage Magicka
+Namira's Rot NAME
+    Damage Magicka
+    Fortify Lockpicking
+    Fear
+    Regenerate Health
+    Spell Critical
+    Speed
+    Invisible
+    Unstoppable
+Nectar NAME
+Netch Jelly NAME
+    Paralysis
+    Fortify Carry Weight
+    Restore Stamina
+    Fear
+Netch Leather NAME
+    Fortify Endurance
+    Fortify Intelligence
+    Drain Personality
+    Cure Paralyzation
+Nightshade NAME
+    Damage Health
+    Burden
+    Damage Luck
+    Fortify Magicka
+    Damage Health
+    Damage Magicka Regen
+    Lingering Damage Stamina
+    Fortify Destruction
+    Ravage Health
+    Protection
+    Gradual Ravage Health
+    Defile
+Nirnroot NAME
+    Drain Health
+    Drain Fatigue
+    Drain Agility
+    Drain Speed
+    Damage Health
+    Damage Stamina
+    Invisibility
+    Resist Magic
+    Ravage Health
+    Uncertainty
+    Enervation
+    Invisible
+Nirthfly Stalks NAME
+    Damage Health
+    Fortify Speed
+    Restore Speed
+    Drain Speed
+Noble Sedge Flowers NAME
+    Damage Health
+    Restore Agility
+    Poison
+    Fortify Agility
+Nordic Barnacle NAME
+    Damage Magicka
+    Waterbreathing
+    Regenerate Health
+    Fortify Pickpocket
+Nymph hair NAME
+    Increase Personality
+    Increase Personality
+Ogre's Teeth NAME
+    Damage Intelligence
+    Resist Paralysis
+    Shock Damage
+    Fortify Strength
+    Weakness to Shock
+    Resist Poison
+    Lingering Damage Magicka
+    Regenerate Health
+Onion NAME
+    Restore Fatigue
+    Water Breathing
+    Detect Life
+    Damage Health
+Orange NAME
+    Restore Fatigue
+    Detect Life
+    Burden
+    Shield
+Orange Dartwing NAME
+    Restore Stamina
+    Ravage Magicka
+    Fortify Pickpocket
+    Lingering Damage Health
+Orc's Blood NAME
+    Increase Strength
+    Increase Strength
+Painted Troll Fat NAME
+    Fortify Magicka
+    Restore Health
+    Fortify Health
+    Restore Magicka
+Palm NAME
+    Levitate
+    Levitate
+Pear NAME
+    Restore Fatigue
+    Damage Speed
+    Fortify Speed
+    Damage Health
+Pearl NAME
+    Water Breathing
+    Water Breathing
+    Drain Agility
+    Water Breathing
+    Resist Common Disease
+    Restore Stamina
+    Fortify Block
+    Restore Magicka
+    Resist Shock
+    Restore Stamina
+    Fortify One-handed
+    Fortify Restoration
+    Resist Frost
+Pearlfish NAME
+    Restore Stamina
+    Resist Frost
+    Fortify Smithing
+    Fortify One-handed
+Peony Seeds NAME
+    Restore Strength
+    Damage Health
+    Damage Speed
+    Restore Fatigue
+Persa Flower NAME
+    Increase lock picking and disarm
+    Increase lock picking and disarm
+Pig's Sac NAME
+    Ironskin
+
+
+Strength
+    Ironskin
+    Strength
+Pine branch NAME
+    Spell Resistance
+    Spell Resistance
+Pine Thrush Egg NAME
+    Restore Stamina
+    Fortify Lockpicking
+    Weakness to Poison
+    Resist Shock
+Pinetear NAME
+Platinum NAME
+    Invisibility
+    Invisibility
+Poison NAME
+    Weakness to Poison
+    Damage Fatigue
+    Damage Health
+    Poison
+Poison Bloom NAME
+    Damage Health
+    Slow
+    Fortify Carry Weight
+    Fear
+Poisoned Apple NAME
+    Deadly Poison
+    Deadly Poison
+Potato NAME
+    Restore Fatigue
+    Shield
+    Burden
+    Frost Shield
+    Restore Health
+    Restore Health
+Powdered Mammoth Tusk NAME
+    Restore Stamina
+    Fortify Sneak
+    Weakness to Fire
+    Fear
+Powdered Mother of Pearl NAME
+    Lingering Health
+    Speed
+    Vitality
+    Protection
+Primrose Leaves NAME
+    Restore Willpower
+    Restore Personality
+    Fortify Luck
+    Damage Strength
+Pumpkin NAME
+    Restore Fatigue
+    Damage Agility
+    Damage Personality
+    Detect Life
+Pure water NAME
+Purgeblood Salts NAME
+    Restore Magicka
+    Damage Health
+    Fortify Magicka
+    Dispel
+Purple Butterfly Wing NAME
+    Regenerate Health
+    Regenerate Magicka
+    Regenerate Stamina
+    Paralysis
+Purple Mountain Flower NAME
+    Restore Stamina
+    Fortify Sneak
+    Lingering Damage Magicka
+    Resist Frost
+Pygmy Sunfish NAME
+    Restore Stamina
+    Lingering Damage Magicka
+    Damage Magicka Regen
+    Fortify Restoration
+Racer Plumes NAME
+    Drain Willpower
+    Levitate
+Radish NAME
+    Restore Fatigue
+    Damage Endurance
+    Chameleon
+    Burden
+Raider Chew NAME
+    Increase Strength
+
+
+Damage Intelligence
+
+
+Damage Agility
+    Increase Strength
+    Damage Intelligence
+    Damage Agility
+Rain water NAME
+Rat Meat NAME
+    Drain Magicka
+    Paralyze
+    Cure Poison
+    Resist Poison
+    Damage Fatigue
+    Detect Life
+    Damage Magicka
+    Silence
+Rat Poison NAME
+    Rat Poison
+    Rat Poison
+Rat's Eye NAME
+    Casts Mystic Might
+    Casts Mystic Might
+Raw Ebony NAME
+    Drain Agility
+    Cure Poison
+    Frost Shield
+    Restore Speed
+Raw Glass NAME
+    Drain Intelligence
+    Drain Strength
+    Drain Speed
+    Fire Shield
+Raw Stalhrim NAME
+    Resist Frost
+    Frost Damage
+    Paralyze
+    Restore Health
+Red berries NAME
+    Resist Fire
+    Resist Fire
+Red flowers NAME
+    Damage Stamina
+    Damage Stamina
+Red Kelp Gas Bladder NAME
+    Restore Speed
+    Water Breathing
+    Cure Disease
+    Fortify Magicka
+    Regenerate Stamina
+    Waterbreathing
+    Cure Disease
+    Fortify Magicka
+Red Lichen NAME
+    Drain Speed
+    Light
+    Cure Common Disease
+    Drain Magicka
+Red Mountain Flower NAME
+    Restore Magicka
+    Ravage Magicka
+    Fortify Magicka
+    Damage Health
+Red Mushroom NAME
+    Increases health
+    Increases health
+Red poppy NAME
+    Drain Strength
+    Drain Strength
+Red rose NAME
+    Detect Magic
+    Detect Magic
+Redwort Flower NAME
+    Resist Frost
+    Cure Poison
+    Damage Health
+    Invisibility
+    Resist Frost
+    Cure Poison
+    Damage Health
+    Invisibility
+Refined Frost Salts NAME
+Resin NAME
+    Restore Health
+    Restore Speed
+    Burden
+    Resist Common Disease
+Rice NAME
+    Restore Fatigue
+    Silence
+    Shock Shield
+    Damage Agility
+River Betty NAME
+    Damage Health
+    Fortify Alteration
+    Slow
+    Fortify Carry Weight
+Rock Warbler Egg NAME
+    Restore Health
+    Fortify One-handed
+    Damage Stamina
+    Weakness to Magic
+Roland's Tear NAME
+Roobrush NAME
+    Drain Willpower
+    Fortify Agility
+    Drain Health
+    Cure Poison
+    Weakness to Magic
+    Fortify Sneak
+    Lingering Damage Health
+    Cure Poison
+Root bulb NAME
+    Regenerate Health
+    Regenerate Health
+Root Pulp NAME
+    Cure Disease
+    Damage Willpower
+    Fortify Strength
+    Damage Intelligence
+Root tendrils NAME
+    Dimunition
+    Dimunition
+Rot Scale NAME
+    Burden
+    Damage Health
+    Silence
+    Paralyze
+    Slow
+    Lingering Damage Health
+    Fear
+    Paralysis
+Ruby NAME
+    Spell Absorption
+    Spell Absorption
+    Drain Health
+    Feather
+    Restore Intelligence
+    Drain Agility
+Rumare Slaughterfish Scales NAME
+Sabre Cat Tooth NAME
+    Restore Stamina
+    Fortify Heavy Armor
+    Fortify Smithing
+    Weakness to Poison
+Sacred Lotus Seeds NAME
+    Resist Frost
+    Damage Health
+    Feather
+    Dispel
+Saint's hair NAME
+    Cure Disease
+    Cure Disease
+Salamander NAME
+Salmon Roe NAME
+    Restore Stamina
+    Waterbreathing
+    Fortify Magicka
+    Regenerate Magicka
+Salt Pile NAME
+    Weakness to Magic
+    Fortify Restoration
+    Slow
+    Regenerate Magicka
+Saltrice NAME
+    Restore Fatigue
+    Fortify Magicka
+    Drain Strength
+    Restore Health
+    Restore Stamina
+    Fortify Magicka
+    Damage Stamina Regen
+    Restore Health
+Sapphire NAME
+    Spell Reflection
+    Spell Reflection
+Scalon Fin NAME
+    Water Breathing
+    Damage Health
+    Shock Damage
+    Burden
+    Waterbreathing
+    Damage Health
+    Lingering Damage Magicka
+    Damage Magicka Regen
+Scaly Pholiota NAME
+    Weakness to Magic
+    Fortify Illusion
+    Regenerate Stamina
+    Fortify Carry Weight
+Scamp Skin NAME
+    Drain Magicka
+    Cure Paralyzation
+    Restore Personality
+    Restore Strength
+    Damage Magicka
+    Resist Shock
+    Reflect Damage
+    Damage Health
+Scathecraw NAME
+    Drain Strength
+    Cure Poison
+    Drain Health
+    Restore Willpower
+    Ravage Health
+    Ravage Stamina
+    Ravage Magicka
+    Lingering Damage Health
+Scorpion Stinger NAME
+    Damage Health
+    Damage Health
+    Damage Health
+    Damage Health
+Scrap Metal NAME
+    Drain Health
+    Lightning Shield
+    Resist Shock
+    Restore Intelligence
+Screaming Maw NAME
+    Restore Willpower
+    Detect Life
+    Chameleon
+    Restore Health
+    Regenerate Magicka
+    Fortify Alteration
+    Invisibility
+    Regenerate Health
+Scrib Cabbage NAME
+    Drain Intelligence
+    Damage Health
+    Restore Agility
+    Fortify Agility
+Scrib Jelly NAME
+    Fortify Willpower
+    Cure Poison
+    Cure Blight Disease
+    Restore Willpower
+    Regenerate Magicka
+    Cure Poison
+    Cure Disease
+    Regenerate Stamina
+    Ravage Magicka
+    Speed
+    Vulnerability
+    Lingering Health
+Scrib Jerky NAME
+    Restore Fatigue
+    Fortify Fatigue
+    Burden
+    Swift Swim
+    Restore Stamina
+    Fortify Stamina
+    Paralysis
+    Waterbreathing
+Scythe Crystals NAME
+    Attack nearby enemies
+    Attack nearby enemies
+Shadowbane NAME
+Shadowseed NAME
+    Increase Strength
+Increase Intelligence
+Increase Agility
+Increase Speed
+Increase Perception
+Increase Luck
+Increase Endurance
+Increase Will
+    Increase Strength
+Increase Intelligence
+Increase Agility
+Increase Speed
+Increase Perception
+Increase Luck
+Increase Endurance
+Increase Will
+Shalk Resin NAME
+    Drain Fatigue
+    Fortify Health
+    Drain Personality
+    Fortify Speed
+Shepherd's Pie NAME
+    Cure Disease
+    Shield
+    Fortify Agility
+    Dispel
+    Increase Max Health
+
+
+Increase Max Stamina
+    Increase Max Health
+    Increase Max Stamina
+Silver NAME
+    Cure Magic
+    Cure Magic
+Silverside Perch NAME
+    Restore Stamina
+    Damage Stamina Regen
+    Ravage Health
+    Resist Frost
+S'jirra's Famous Potato Bread NAME
+    Detect Life
+    Restore Health
+    Damage Agility
+    Damage Strength
+Skeever Tail NAME
+    Damage Stamina Regen
+    Ravage Health
+    Damage Health
+    Fortify Light Armor
+Slaughterfish Egg NAME
+    Resist Poison
+    Fortify Pickpocket
+    Lingering Damage Health
+    Fortify Stamina
+Slaughterfish Scales NAME
+    Drain Personality
+    Water Walking
+    Restore Endurance
+    Swift Swim
+    Damage Willpower
+    Water Breathing
+    Damage Health
+    Water Walking
+    Resist Frost
+    Lingering Damage Health
+    Fortify Heavy Armor
+    Fortify Block
+Sload Soap NAME
+    Drain Personality
+    Fortify Agility
+    Fire Shield
+    Restore Agility
+    Resist Fire
+    Fear
+    Fortify Conjuration
+    Fortify Alteration
+Smack Water NAME
+    Increase Strength
+    Increase Strength
+Small Antlers NAME
+Small Kwama Egg NAME
+Small Pearl NAME
+Small scorpion stinger NAME
+Small tooth NAME
+Smoked Baliwog Leg NAME
+    Restore Fatigue
+    Feather
+    Restore Health
+    Damage Fatigue
+Snake venom NAME
+    Spell Resistance
+    Spell Resistance
+Snow Bear Pelt NAME
+    Drain Fatigue
+    Fortify Speed
+    Resist Common Disease
+    Night Eye
+Snow Wolf Pelt NAME
+    Drain Fatigue
+    Fortify Speed
+    Resist Common Disease
+    Night Eye
+Snowberries NAME
+    Resist Fire
+    Fortify Enchanting
+    Resist Frost
+    Resist Shock
+    Restore Health
+    Restore Health
+Snowray Powder NAME
+    Immunity to all special attacks
+    Immunity to all special attacks
+Somnalius Frond NAME
+    Restore Speed
+    Damage Endurance
+    Fortify Health
+    Feather
+Spadefish NAME
+    Restore Health
+    Fortify Lockpicking
+    Fortify Pickpocket
+    Cure Disease
+Spawn Ash NAME
+    Ravage Stamina
+    Resist Fire
+    Fortify Enchanting
+    Ravage Magicka
+Spell Web Thread NAME
+    Increase Magic Resistance
+    Increase Magic Resistance
+Spiddal Stick NAME
+    Damage Health
+    Damage Magicka
+    Fire Damage
+    Restore Fatigue
+    Damage Health
+    Damage Magicka
+    Weakness to Fire
+    Restore Stamina
+Spider Egg NAME
+    Damage Stamina
+    Damage Magicka Regen
+    Fortify Lockpicking
+    Fortify Marksman
+    Hindrance
+    Invisible
+    Lingering Health
+    Defile
+Spider Heart NAME
+    Increase Lethal Strike
+    Increase Lethal Strike
+Spider's venom NAME
+    Paralysis
+    Paralysis
+Spore Pod NAME
+    Drain Strength
+    Drain Fatigue
+    Detect Key
+    Paralyze
+Spriggan Sap NAME
+    Damage Magicka Regen
+    Fortify Enchanting
+    Fortify Smithing
+    Fortify Alteration
+Spriggan's Ear NAME
+St. Jahn's Wort Nectar NAME
+    Resist Shock
+    Damage Health
+    Cure Poison
+    Chameleon
+Steel-Blue Entoloma Cap NAME
+    Restore Magicka
+    Fire Damage
+    Resist Frost
+    Burden
+    Restore Magicka
+    Fortify Destruction
+    Resist Frost
+    Fortify Carry Weight
+Stew NAME
+    Restore Fatigue
+    Restore Fatigue
+Stinkhorn NAME
+    Damage Health
+    Restore Magicka
+    Water Walking
+    Invisibility
+    Fracture
+    Ravage Health
+    Increase Weapon Power
+    Ravage Stamina
+Stoneflower Petals NAME
+    Restore Strength
+    Fortify Magicka
+    Drain Luck
+    Fortify Personality
+    Weakness to Shock
+    Fortify One-handed
+    Fortify Magicka
+    Fortify Enchanting
+Strawberry NAME
+    Restore Fatigue
+    Cure Poison
+    Damage Health
+    Reflect Damage
+Sulphur NAME
+    Resist Fire
+    Resist Fire
+Summer Bolete Cap NAME
+    Restore Agility
+    Shield
+    Damage Personality
+    Damage Endurance
+Sunlight Water NAME
+    Increase Armory
+
+
+Increase Magic Resistance
+    Increase Armory
+    Increase Magic Resistance
+Swamp Fungal Pod NAME
+    Resist Shock
+    Lingering Damage Magicka
+    Paralysis
+    Restore Health
+Swamp Tentacle NAME
+    Restore Personality
+    Water Breathing
+    Water Walking
+    Fortify Health
+Sweetcake NAME
+    Restore Fatigue
+    Feather
+    Restore Health
+    Burden
+Sweetpulp NAME
+    Paralyze
+    Levitate
+    Resist Paralysis
+    Restore Health
+Sweetroll NAME
+    Restore Fatigue
+    Resist Disease
+    Damage Personality
+    Fortify Health
+    Restore Health
+    Restore Health
+    Increase Max Magicka
+
+
+Increase Max Stamina
+    Increase Max Magicka
+    Increase Max Stamina
+    Restore Health
+    Restore Health
+References NAME
+Taproot NAME
+    Restore Luck
+    Damage Endurance
+    Resist Poison
+    Shock Shield
+    Weakness to Magic
+    Fortify Illusion
+    Regenerate Magicka
+    Restore Magicka
+Thistle Branch NAME
+    Resist Frost
+    Ravage Stamina
+    Resist Poison
+    Fortify Heavy Armor
+    Restore Health
+    Restore Health
+Thorn Hook NAME
+    Damage Health
+    Damage Luck
+    Restore Magicka
+    Fortify Health
+    Lingering Damage Health
+    Paralysis
+    Regenerate Magicka
+    Regenerate Health
+Thunder Herb NAME
+    Increase Damage
+    Increase Damage
+Tiger Lily Nectar NAME
+    Restore Endurance
+    Damage Strength
+    Water Walking
+    Damage Willpower
+Timsa-Come-By flowers NAME
+    Resist Paralysis
+    Drain Magicka
+    Restore Endurance
+Tin NAME
+    Free Action
+    Free Action
+Tinder Polypore Cap NAME
+    Restore Willpower
+    Resist Disease
+    Invisibility
+    Damage Magicka
+Toad Muffin NAME
+    Restore Fatigue
+
+
+Restore Magicka
+    Restore Fatigue
+    Restore Magicka
+Tobacco NAME
+    Restore Fatigue
+    Resist Paralysis
+    Damage Magicka
+    Dispel
+Tomato NAME
+    Restore Fatigue
+    Detect Life
+    Burden
+    Shield
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Tooth NAME
+    Spell Resistance
+    Spell Resistance
+    Spell Resistance
+    Spell Resistance
+Topaz Dust NAME
+    Increase Personality
+
+
+Damage Agility
+
+
+Damage Luck
+    Increase Personality
+    Damage Agility
+    Damage Luck
+Torchbug Thorax NAME
+    Restore Stamina
+    Lingering Damage Magicka
+    Weakness to Magic
+    Fortify Stamina
+    Fracture
+    Enervation
+    Detection
+    Vitality
+Trama Root NAME
+    Restore Willpower
+    Levitate
+    Drain Magicka
+    Drain Speed
+    Weakness to Shock
+    Fortify Carry Weight
+    Damage Magicka
+    Slow
+Treated Bittergreen Petals NAME
+Tremble Weed NAME
+    Increase Speed
+
+
+Drain Fatigue
+    Increase Speed
+    Drain Fatigue
+Troll Blood NAME
+    Regenerate Health
+    Regenerate Health
+    Fortify Attack
+
+
+Fortify Armor
+    Fortify Attack
+    Fortify Armor
+Troll Fat NAME
+    Damage Agility
+    Fortify Personality
+    Damage Willpower
+    Damage Health
+    Resist Poison
+    Fortify Two-handed
+    Frenzy
+    Damage Health
+Tundra Cotton NAME
+    Resist Magic
+    Fortify Magicka
+    Fortify Block
+    Fortify Barter
+Turquoise NAME
+    Water Walking
+    Water Walking
+Twigs NAME
+    Slowfall
+    Slowfall
+Umbric Fur NAME
+    Increase Attack
+
+
+Increase Defense
+
+
+Increase Armor
+    Increase Attack
+    Increase Defense
+    Increase Armor
+Unicorn Horn NAME
+    Detect Enemy
+    Detect Enemy
+    Fortify Health
+    Fortify Health
+Unrefined Greenmote NAME
+    Drain Fatigue
+    Drain Health
+    Drain Magicka
+    Drain Intelligence
+Vampire Dust NAME
+    Fortify Health
+    Fortify Strength
+    Spell Absorption
+    Vampirism
+    Silence
+    Resist Disease
+    Frost Damage
+    Invisibility
+    Invisibility
+    Restore Magicka
+    Regenerate Health
+    Cure Disease
+Venison NAME
+    Restore Health
+    Feather
+    Damage Health
+    Chameleon
+    Restore Health
+    Restore Health
+    Restore Health
+    Restore Health
+Vicar Herb NAME
+    Restore Health
+
+
+Restore Magicka
+    Restore Health
+    Restore Magicka
+    Restore Health
+
+
+Restore Magicka
+    Restore Health
+    Restore Magicka
+Violet Coprinus NAME
+    Water Walking
+    Drain Fatigue
+    Poison
+    Breach
+    Ravage Health
+    Increase Spell Power
+    Ravage Magicka
+Viper's Bugloss Leaves NAME
+    Resist Paralysis
+    Night-Eye
+    Burden
+    Cure Paralysis
+Void Essence NAME
+    Restore Health
+    Fortify Health
+    Fortify Strength
+    Fortify Endurance
+    Restore Health
+    Fortify Health
+    Fortify Stamina
+    Regenerate Health
+Void Salts NAME
+    Restore Magicka
+    Spell Absorption
+    Paralyze
+    Drain Endurance
+    Restore Magicka
+    Damage Health
+    Fortify Magicka
+    Dispel
+    Weakness to Shock
+    Resist Magic
+    Damage Health
+    Fortify Magicka
+    Resist Shock
+    Weakness to Shock
+Warrior Bread NAME
+    Restore Fatigue
+
+
+Restore Health
+    Restore Fatigue
+    Restore Health
+Watcher's Eye NAME
+    Restore Intelligence
+    Fortify Magicka
+    Light
+    Reflect Spell
+    Night Eye
+    Fortify Magicka
+    Fortify Illusion
+    Spell Absorption
+Water Hyacinth NAME
+    Damage Luck
+    Damage Fatigue
+    Restore Magicka
+    Fortify Magicka
+    Restore Health
+    Spell Critical
+    Weapon Critical
+    Entrapment
+Water Root Pod Pit NAME
+    Restore Health
+    Resist Fire
+    Fire Shield
+    Water Breathing
+Watermelon NAME
+    Restore Fatigue
+    Light
+    Burden
+    Damage Health
+Wereboar's tusk NAME
+    Increase Strength
+    Increase Strength
+Werewolf's blood NAME
+    Cure Magic
+    Cure Magic
+Wheat NAME
+    Restore Fatigue
+    Damage Magicka
+    Fortify Health
+    Damage Personality
+    Restore Health
+    Fortify Health
+    Damage Stamina Regen
+    Lingering Damage Magicka
+White Cap NAME
+    Weakness to Frost
+    Fortify Heavy Armor
+    Restore Magicka
+    Ravage Magicka
+    Cowardice
+    Ravage Magicka
+    Increase Spell Resist
+    Detection
+White poppy NAME
+    Drain Intelligence
+    Drain Intelligence
+White rose NAME
+    Increase Intelligence
+    Increase Intelligence
+White Seed Pod NAME
+    Restore Strength
+    Water Breathing
+    Silence
+    Light
+Wickeder Skin NAME
+    Increase Armor
+
+
+Increase Defense
+    Increase Armor
+    Increase Defense
+Wickwheat NAME
+    Restore Health
+    Fortify Willpower
+    Paralyze
+    Damage Intelligence
+Wild Grass Pod NAME
+    Resist Poison
+    Ravage Magicka
+    Fortify Alteration
+    Restore Magicka
+Willow Anther NAME
+    Drain Personality
+    Frost Shield
+    Cure Common Disease
+    Cure Paralyzation
+Wisp Core NAME
+    Restore Intelligence
+    Burden
+    Light
+    Chameleon
+Wisp Stalk Caps NAME
+    Damage Health
+    Damage Willpower
+    Damage Intelligence
+    Fortify Speed
+    Damage Health
+    Weakness to Poison
+    Frenzy
+    Regenerate Stamina
+Wisp Wrappings NAME
+    Restore Stamina
+    Fortify Destruction
+    Fortify Carry Weight
+    Resist Magic
+Withering Moon NAME
+    Restore Magicka
+    Shield
+    Cure Disease
+    Reflect Spell
+    Restore Magicka
+    Spell Absorption
+    Fortify Light Armor
+    Cure Disease
+Wolf Pelt NAME
+    Drain Fatigue
+    Fortify Speed
+    Resist Common Disease
+    Night Eye
+Wolfsbane Petals NAME
+    Restore Intelligence
+    Invisibility
+    Drain Endurance
+    Drain Magicka
+Worm's Head Cap NAME
+    Restore Luck
+    Night-Eye
+    Fortify Fatigue
+    Paralyze
+    Fortify Lockpicking
+    Night Eye
+    Fortify Carry Weight
+    Slow
+Wormwood NAME
+    Fortify Fatigue
+    Invisibility
+    Damage Health
+    Damage Magicka
+    Weapon Critical
+    Hindrance
+    Detection
+    Unstoppable
+Wraith essence NAME
+    Drain Willpower
+    Drain Willpower
+Yellow berries NAME
+    Increase Speed
+    Increase Speed
+Yellow flowers NAME
+    Chameleon
+    Chameleon
+Yellow Mountain Flower NAME
+    Resist Poison
+    Fortify Restoration
+    Fortify Health
+    Damage Stamina Regen
+Yellow rose NAME
+    Lycanthropy
+    Lycanthropy
+Zombie Dust NAME
+    Increase Armor
+    Increase Armor

@@ -1,0 +1,2838 @@
+Abecean Longfin NAME
+	Frost Vulnerability
+	Agility Increase
+	Poison Vulnerability
+	Restoration Spells Enhancement
+Adamantium Ore NAME
+	Strength Decrease
+	Magicka Restoration
+	Poison
+	Willpower Increase
+Ahm Galath NAME
+	Agility Increase
+	Agility Increase
+Alit Hide NAME
+	Intelligence Decrease
+	Poison Resistance
+	Telekinesis
+	Perception Increase
+Alkanet Flower NAME
+	Intelligence Restoration
+	Poison Resistance
+	Light
+	Fatigue Increase
+Alocasia Fruit NAME
+	Fatigue Restoration
+	Light
+	Health Restoration
+	Magicka Damage
+	Fatigue Decrease
+	Light
+	Magicka Damage
+	Vitality Increase
+Aloe Vera Leaves NAME
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Fatigue Restoration
+	Health Restoration
+	Magicka Damage
+	Invisibility
+	Health Restoration
+	Stamina Restoration
+	Magicka Damage
+	Invisibility
+Amber NAME
+	Fire Resistance
+	Fire Resistance
+Ambrosia NAME
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Vitality Increase
+	Increased Health
+	Poison Cure
+Ampoule Pod NAME
+	Water Walking
+	Paralysis
+	Perception Increase
+	Willpower Decrease
+Ancestor Moth Wing NAME
+	Stamina Damage
+	Conjuration Spells Enhancement
+	Focus Decrease
+	Enchanting Enhancement
+Angelfish NAME
+	Vitality Increase
+	Fire Resistance
+	Perception Increase
+	Water Breathing
+Angler Larva NAME
+	Lingering Health Damage
+	Fatigue Decrease
+	Water Breathing
+	Strength Increase
+Antlers NAME
+	Stamina Restoration
+	Increased Stamina
+	Speed Decrease
+	Fatigue Increase
+	Poison Vulnerability
+	Restoration Spells Enhancement
+	Lingering Stamina Damage
+	Health Damage
+Apple NAME
+	Fatigue Restoration
+	Luck Damage
+	Willpower Increase
+	Health Damage
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Arrowroot NAME
+	Agility Restoration
+	Luck Damage
+	Strength Increase
+	Strength Decrease
+Ash Creep Cluster NAME
+	Stamina Damage
+	Invisibility
+	Fire Resistance
+	Destruction Spells Enhancement
+Ash Hopper Jelly NAME
+	Health Restoration
+	Agility Increase
+	Shock Resistance
+	Frost Vulnerability
+Ash Salt NAME
+	Agility Decrease
+	Willpower Increase
+	Blight Disease Cure
+	Willpower Increase
+Ash Yam NAME
+	Intelligence Increase
+	Strength Increase
+	Disease Resistance
+	Perception Increase
+	Health Restoration
+	Health Restoration
+Ashen Grass Pod NAME
+	Fire Resistance
+	Shock Vulnerability
+	Agility Increase
+	Agility Increase
+Ashen Remains NAME
+	Fatigue Capacity
+	Luck Damage
+	Silence
+	Fire Vulnerability
+Aster Bloom Core NAME
+	Agility Restoration
+	Intelligence Increase
+	Endurance Increase
+	Strength Decrease
+	Willpower Increase
+	Agility Increase
+	Strength Increase
+	Paralysis
+Azra Root NAME
+	Intelligence Increase
+
+
+	Endurance Decrease
+
+
+	Strength Decrease
+	Intelligence Increase
+	Endurance Decrease
+	Strength Decrease
+Bamboo NAME
+	Stamina Restoration
+	Stamina Restoration
+Basilisk's eye NAME
+	Paralysis Cure
+	Paralysis Cure
+Bear Claws NAME
+	Stamina Restoration
+	Increased Health
+	Strength Increase
+	Focus Decrease
+Bear Pelt NAME
+	Fatigue Increase
+	Strength Increase
+	Disease Resistance
+	Night Vision
+Beating Heart NAME
+Cannibal Consumption
+Cannibal Consumption
+Bee NAME
+	Stamina Restoration
+	Stamina Damage
+	Fatigue Decrease
+	Shock Vulnerability
+Beef NAME
+	Fatigue Restoration
+	Endurance Increase
+	Agility Increase
+	Intelligence Increase
+	Health Restoration
+	Health Restoration
+Beehive Husk NAME
+	Poison Resistance
+	Agility Increase
+	Agility Increase
+	Destruction Spells Enhancement
+Beetle Scuttle NAME
+	Fatigue Restoration
+	Fatigue Capacity
+	Strength Increase
+	Telekinesis
+	Willpower Decrease
+	Endurance Increase
+	Endurance Increase
+	Vitality Increase
+Belladonna Berries NAME
+	Willpower Increase
+	Magicka Restoration
+	Increased Magicka
+	Magicka Damage
+Bergamot Seeds NAME
+	Disease Resistance
+	Intelligence Increase
+	Magicka Damage
+	Silence
+Berit's Ashes NAME
+Bervez Juice NAME
+	Health Restoration
+
+
+	Fatigue Restoration
+	Health Restoration
+	Fatigue Restoration
+Big tooth NAME
+Bitter Tea NAME
+	Endurance Increase
+
+
+	Agility Decrease
+
+
+	Intelligence Decrease
+	Endurance Increase
+	Agility Decrease
+	Intelligence Decrease
+	Focus Increase
+	Focus Increase
+Bittergreen Petals NAME
+	Intelligence Restoration
+	Invisibility
+	Endurance Decrease
+	Magicka Damage
+	Lingering Stamina Damage
+	Invisibility
+	Poison Cure
+	Magicka Damage
+Black Anther NAME
+	Agility Decrease
+	Fire Resistance
+	Endurance Decrease
+	Light
+Black Lichen NAME
+	Strength Decrease
+	Frost Resistance
+	Speed Decrease
+	Poison Cure
+Black Mushroom NAME
+	Endurance Increase
+	Endurance Increase
+Black poppy NAME
+	Intelligence Decrease
+	Intelligence Decrease
+Black rose NAME
+	Silence
+	Silence
+Black Tar NAME
+	Fatigue Increase
+	Speed Decrease
+	Health Damage
+	Shock Spells Power
+Blackberry NAME
+	Fatigue Restoration
+	Shock Resistance
+	Endurance Increase
+	Magicka Restoration
+Bleeding Crown NAME
+	Fire Vulnerability
+	Strength Increase
+	Poison Vulnerability
+	Willpower Increase
+Blessed Thistle NAME
+	Stamina Restoration
+	Strength Increase
+	Health Damage
+	Speed Increase
+Blind Watcher's Eye NAME
+	Intelligence Restoration
+	Increased Magicka
+	Light
+	Willpower Increase
+	Light
+	Increased Magicka
+	Alteration Spells Enhancement
+	Willpower Increase
+Bliss Bug Thorax NAME
+	Fire Vulnerability
+	Fire Resistance
+	Strength Increase
+	Illusion Spells Enhancement
+Blister Pod Cap NAME
+	Magicka Restoration
+	Increased Magicka
+	Night Vision
+	Invisibility
+	Magicka Restoration
+	Increased Magicka
+	Night Vision
+	Invisibility
+Blisterwort NAME
+	Stamina Damage
+	Frenzy
+	Health Restoration
+	Strength Increase
+Bloat NAME
+	Magicka Damage
+	Intelligence Increase
+	Willpower Increase
+	Perception Increase
+Blood of an Innocent NAME
+Bloodgrass NAME
+	Chameleon
+	Paralysis Resistance
+	Strength Decrease
+	Increased Health
+	Invisibility
+	Poison Resistance
+	Speed Decrease
+	Increased Health
+Blue Butterfly Wing NAME
+	Stamina Damage
+	Conjuration Spells Enhancement
+	Focus Decrease
+	Enchanting Enhancement
+Blue Dartwing NAME
+	Shock Resistance
+	Agility Increase
+	Health Restoration
+	Fear
+Blue Entoloma NAME
+	Magicka Damage
+	Fear
+	Health Restoration
+	Invisibility
+Blue Mountain Flower NAME
+	Health Restoration
+	Conjuration Spells Enhancement
+	Increased Health
+	Focus Decrease
+Boar Meat NAME
+	Health Restoration
+	Speed Decrease
+	Increased Health
+	Strength Decrease
+	Health Restoration
+	Health Restoration
+Boar Tusk NAME
+	Increased Stamina
+	Increased Health
+	Strength Increase
+	Frenzy
+Bog Beacon Asco Cap NAME
+	Magicka Restoration
+	Endurance Increase
+	Personality Decrease
+	Endurance Decrease
+	Magicka Restoration
+	Strength Increase
+	Fear
+	Stamina Damage
+Bone Marrow NAME
+	Health Damage
+	Frost Spells Enhancement
+	Magicka Damage
+	Paralysis
+Bone Shard NAME
+	Willpower Restoration
+	Frost Resistance
+	Magicka Damage
+	Luck Damage
+Bone Meal NAME
+	Agility Restoration
+	Telekinesis
+	Fatigue Increase
+	Personality Decrease
+	Fatigue Increase
+	Fire Resistance
+	Luck Increase
+	Night Vision
+	Stamina Damage
+	Fire Resistance
+	Conjuration Spells Enhancement
+	Stamina Damage
+Bounder Skin NAME
+	Endurance Increase
+
+
+	Endurance Increase
+
+
+	Strength Increase
+	Endurance Increase
+	Endurance Increase
+	Strength Increase
+Brass NAME
+	Agility Increase
+	Agility Increase
+Bread NAME
+	Fatigue Restoration
+	Fatigue Restoration
+	Fatigue Restoration
+	Fatigue Restoration
+	Fatigue Restoration
+	Perception Increase
+	Agility Decrease
+	Strength Decrease
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Briar Heart NAME
+	Magicka Restoration
+	Strength Increase
+	Paralysis
+	Increased Magicka
+Bristleback Leather NAME
+	Blindness
+	Frost Spells Enhancement
+	Frost Resistance
+	Teleportation
+Bugloss NAME
+	Willpower Increase
+	Health Restoration
+	Fear
+	Magicka Restoration
+Bungler's Bane NAME
+	Speed Decrease
+	Endurance Decrease
+	Strength Decrease
+	Speed Decrease
+	Stamina Damage
+	Fatigue Increase
+	Willpower Increase
+Burnt Spriggan Wood NAME
+	Fire Vulnerability
+	Alteration Spells Enhancement
+	Focus Decrease
+	Speed Decrease
+Butterfly Wing NAME
+	Health Restoration
+	Personality Increase
+	Lingering Stamina Damage
+	Magicka Damage
+	Health Restoration
+	Willpower Decrease
+	Lingering Health Restoration
+	Vitality Increase
+Cactus NAME
+	Willpower Increase
+	Willpower Increase
+Cairn Bolete Cap NAME
+	Health Restoration
+	Intelligence Decrease
+	Paralysis Resistance
+	Shock Spells Power
+Canis Root NAME
+	Stamina Damage
+	Strength Increase
+	Perception Increase
+	Paralysis
+Carrot NAME
+	Fatigue Restoration
+	Night Vision
+	Intelligence Increase
+	Endurance Decrease
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Carrot of Seeing NAME
+Charred Skeever Hide NAME
+	Stamina Restoration
+	Disease Cure
+	Poison Resistance
+	Health Restoration
+Chaurus Eggs NAME
+	Poison Vulnerability
+	Increased Stamina
+	Magicka Damage
+	Invisibility
+Chaurus Hunter Antennae NAME
+	Stamina Damage
+	Conjuration Spells Enhancement
+	Focus Decrease
+	Enchanting Enhancement
+Cheese Wedge NAME
+	Fatigue Restoration
+	Fire Resistance
+	Fire Resistance
+	Agility Decrease
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Cheese Wheel NAME
+	Fatigue Restoration
+	Paralysis Resistance
+	Luck Damage
+	Willpower Increase
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Chicken's Egg NAME
+	Willpower Increase
+	Focus Decrease
+	Water Breathing
+	Lingering Stamina Damage
+Chokeberry NAME
+Poison Fruit
+Poison Fruit
+	Health Damage
+	Health Damage
+	Lingering Health Damage
+	Poison Vulnerability
+Chokeweed NAME
+	Luck Damage
+	Fatigue Restoration
+	Disease Cure
+	Willpower Decrease
+	Frost Vulnerability
+	Stamina Restoration
+	Disease Cure
+	Magicka Damage
+Cinnabar Polypore Red Cap NAME
+	Agility Restoration
+	Endurance Increase
+	Personality Decrease
+	Endurance Decrease
+Cinnabar Polypore Yellow Cap NAME
+	Endurance Restoration
+	Endurance Increase
+	Personality Decrease
+	Willpower Increase
+Clam Gall NAME
+	Willpower Increase
+	Speed Decrease
+	Endurance Decrease
+	Vitality Decrease
+Clannfear Claws NAME
+	Disease Cure
+	Disease Resistance
+	Paralysis
+	Health Damage
+Clawrunner Skin NAME
+	Endurance Increase
+
+
+	Endurance Increase
+
+
+	Strength Increase
+	Endurance Increase
+	Endurance Increase
+	Strength Increase
+Clouded Funnel Cap NAME
+	Intelligence Restoration
+	Intelligence Increase
+	Endurance Decrease
+	Magicka Damage
+Clover NAME
+	Luck Increase
+	Luck Increase
+Coda Flower NAME
+	Personality Decrease
+	Levitation
+	Intelligence Decrease
+	Health Damage
+	Health Damage
+	Lingering Stamina Damage
+	Magicka Damage
+	Strength Increase
+Columbine NAME
+	Personality Restoration
+	Frost Resistance
+	Increased Magicka
+	Chameleon
+	Health Restoration
+	Magicka Restoration
+	Stamina Restoration
+	Paralysis Resistance
+Comberry NAME
+	Fatigue Increase
+	Magicka Restoration
+	Fire Resistance
+	Willpower Increase
+	Stamina Damage
+	Willpower Increase
+	Magicka Restoration
+	Destruction Spells Enhancement
+Congealed Putrescence NAME
+	Strength Restoration
+	Fire Spells Enhancement
+	Magicka Restoration
+	Health Damage
+	Health Damage
+	Magicka Restoration
+	Fire Vulnerability
+	Conjuration Spells Enhancement
+Copper NAME
+	Intelligence Increase
+	Intelligence Increase
+Corkbulb Root NAME
+	Paralysis Cure
+	Health Restoration
+	Shock Resistance
+	Luck Increase
+	Paralysis
+	Health Restoration
+	Shock Resistance
+	Perception Increase
+Corn NAME
+	Fatigue Restoration
+	Intelligence Restoration
+	Agility Decrease
+	Shock Resistance
+Corn Flower NAME
+	Magicka Restoration
+	Intelligence Increase
+	Health Damage
+	Perception Increase
+Corprus Weepings NAME
+	Fatigue Increase
+	Luck Increase
+	Willpower Decrease
+	Health Restoration
+Corprusmeat NAME
+	Fatigue Increase
+	Health Damage
+	Magicka Damage
+Crab Meat NAME
+	Fatigue Restoration
+	Shock Resistance
+	Shock Resistance
+	Luck Restoration
+	Endurance Restoration
+	Shock Resistance
+	Fatigue Increase
+	Fire Resistance
+	Health Restoration
+	Health Restoration
+Creep Cluster NAME
+	Magicka Restoration
+	Fatigue Increase
+	Strength Increase
+	Willpower Decrease
+Crimson Nirnroot NAME
+	Health Damage
+	Stamina Damage
+	Invisibility
+	Willpower Increase
+	Fear
+	Willpower Increase
+	Lingering Health Damage
+	Health Restoration
+Cyrodilic Spadetail NAME
+	Stamina Damage
+	Restoration Spells Enhancement
+	Fear
+	Health Damage
+Daedra Heart NAME
+	Willpower Increase
+	Willpower Increase
+	Health Damage
+	Health Damage
+	Magicka Restoration
+	Endurance Increase
+	Agility Decrease
+	Night Vision
+	Health Restoration
+	Shock Resistance
+	Magicka Damage
+	Silence
+	Health Restoration
+	Fatigue Increase
+	Magicka Damage
+	Fear
+Daedra Silk NAME
+	Strength Decrease
+	Night Vision
+	Chameleon
+	Endurance Decrease
+	Lingering Stamina Damage
+	Paralysis
+	Night Vision
+	Invisibility
+Daedra Skin NAME
+	Strength Increase
+	Disease Cure
+	Paralysis
+	Swimming Speed
+Daedra Venin NAME
+	Paralysis
+	Fatigue Restoration
+	Health Damage
+	Agility Increase
+	Health Damage
+	Paralysis
+	Destruction Spells Enhancement
+	Willpower Increase
+Daedroth Sac NAME
+	Endurance Increase
+	Endurance Increase
+Daedroth Teeth NAME
+	Night Vision
+	Frost Resistance
+	Strength Decrease
+	Light
+	Frost Resistance
+	Light
+	Focus Decrease
+	Fatigue Decrease
+Deathbell NAME
+	Health Damage
+	Stamina Damage
+	Speed Decrease
+	Poison Vulnerability
+	Poison Resistance
+	Poison Vulnerability
+Deathsnow Dust NAME
+	Strength Increase
+	Strength Increase
+Damage
+Damage
+Deformed Swamp Tentacle NAME
+Diamond NAME
+	Willpower Increase
+	Willpower Increase
+	Agility Decrease
+	Invisibility
+	Willpower Increase
+	Perception Increase
+Dog Food NAME
+	Increased Health
+	Fatigue Increase
+	Intelligence Increase
+	Magicka Damage
+Dragon Claw NAME
+Dragon Rheum NAME
+	Magicka Restoration
+	Heroism
+	Agility Decrease
+	Speed Increase
+Dragon's Bile NAME
+	Heroism
+	Endurance Decrease
+	Invisibility
+	Vitality Increase
+Dragon's Blood NAME
+	Lingering Health Restoration
+	Stamina Restoration
+	Heroism
+	Vitality Decrease
+Dragon's scales NAME
+	Willpower Increase
+	Willpower Increase
+Dragon's Tongue NAME
+	Fire Resistance
+	Health Damage
+	Health Restoration
+	Fire Resistance
+	Fire Resistance
+	Personality Increase
+	Illusion Spells Enhancement
+	Strength Increase
+Dragonthorn NAME
+	Strength Increase
+	Stamina Restoration
+	Endurance Decrease
+	Agility Increase
+Dreugh Wax NAME
+	Strength Increase
+	Strength Restoration
+	Luck Damage
+	Willpower Decrease
+	Fatigue Increase
+	Poison Resistance
+	Water Breathing
+	Health Damage
+	Willpower Decrease
+	Frenzy
+	Enchanting Enhancement
+	Strength Increase
+Dry Juniper Leaf NAME
+Dryad Saddle Polypore Cap NAME
+	Luck Restoration
+	Frost Resistance
+	Speed Decrease
+	Frost Spells Enhancement
+Durzog Meat NAME
+	Agility Increase
+	Strength Increase
+	Blindness
+	Magicka Damage
+Dwarven Oil NAME
+	Agility Increase
+
+
+	Health Damage
+	Agility Increase
+	Health Damage
+	Willpower Decrease
+	Illusion Spells Enhancement
+	Focus Increase
+	Magicka Restoration
+Earth Moss NAME
+	Agility Increase
+
+
+	Endurance Decrease
+
+
+	Strength Decrease
+	Agility Increase
+	Endurance Decrease
+	Strength Decrease
+Ectoplasm NAME
+	Etherealness
+	Etherealness
+	Agility Increase
+	Perception Increase
+	Strength Decrease
+	Health Damage
+	Shock Spells Power
+	Intelligence Increase
+	Increased Magicka
+	Health Damage
+	Magicka Restoration
+	Destruction Spells Enhancement
+	Increased Magicka
+	Health Damage
+Elf Cup Cap NAME
+	Willpower Decrease
+	Disease Cure
+	Strength Increase
+	Intelligence Decrease
+Elixir vitae NAME
+Elves Ear NAME
+	Magicka Restoration
+	Perception Increase
+	Frost Vulnerability
+	Fire Resistance
+Elytra Ichor NAME
+	Magicka Restoration
+	Strength Decrease
+	Chameleon
+	Silence
+	Magicka Restoration
+	Invisibility
+	Speed Decrease
+	Fear
+Emerald NAME
+	Chameleon
+	Chameleon
+	Increased Magicka
+	Health Restoration
+	Agility Decrease
+	Endurance Decrease
+Emetic Russula NAME
+	Agility Restoration
+	Endurance Increase
+	Personality Decrease
+	Endurance Decrease
+	Health Damage
+	Magicka Damage
+	Stamina Damage
+	Paralysis
+Emperor Parasol Moss NAME
+	Health Damage
+	Increased Magicka
+	Vitality Increase
+	Strength Increase
+Eye of Sabre Cat NAME
+	Stamina Restoration
+	Health Damage
+	Magicka Damage
+	Health Restoration
+Fairy dragon's scales NAME
+	Willpower Increase
+	Willpower Increase
+Falmer Ear NAME
+	Health Damage
+	Frenzy
+	Poison Resistance
+	Agility Increase
+Felldew NAME
+	Felldew Effect
+	Felldew Effect
+Felsaad Tern Feathers NAME
+	Health Restoration
+	Agility Increase
+	Disease Cure
+	Willpower Increase
+Fennel Seeds NAME
+	Fatigue Restoration
+	Intelligence Decrease
+	Magicka Damage
+	Paralysis
+Fig NAME
+	Fire Resistance
+	Fire Resistance
+Fine-Cut Void Salts NAME
+Fire Petal NAME
+	Fire Resistance
+	Health Damage
+	Willpower Increase
+	Paralysis
+	Health Damage
+	Fire Resistance
+	Willpower Increase
+	Paralysis
+Fire Salts NAME
+	Health Damage
+	Agility Increase
+	Frost Resistance
+	Fire Resistance
+	Fire Spells Enhancement
+	Frost Resistance
+	Magicka Restoration
+	Fire Resistance
+	Frost Vulnerability
+	Fire Resistance
+	Magicka Restoration
+	Focus Increase
+	Fire Resistance
+	Fire Vulnerability
+Flame Stalk NAME
+	Health Restoration
+	Fire Spells Enhancement
+	Frost Resistance
+	Invisibility
+	Health Restoration
+	Frost Resistance
+	Fire Vulnerability
+	Invisibility
+Flaming Eye of the Lightkeeper NAME
+Flax Seeds NAME
+	Magicka Restoration
+	Strength Increase
+	Endurance Increase
+	Health Damage
+Fleshfly Larva NAME
+	Stamina Damage
+	Endurance Decrease
+	Lingering Health Damage
+	Vitality Increase
+Floater Sac NAME
+	Willpower Increase
+	Willpower Increase
+Flour NAME
+	Fatigue Restoration
+	Personality Decrease
+	Fatigue Capacity
+	Agility Increase
+	Health Restoration
+	Health Restoration
+Fly Amanita NAME
+	Agility Restoration
+	Strength Decrease
+	Health Restoration
+	Shock Spells Power
+	Fire Resistance
+	Strength Increase
+	Frenzy
+	Fatigue Decrease
+Fox Herb NAME
+	Intelligence Increase
+	Intelligence Increase
+Foxglove Nectar NAME
+	Poison Resistance
+	Paralysis Resistance
+	Luck Restoration
+	Disease Resistance
+Frost Mirriam NAME
+	Frost Resistance
+	Agility Increase
+	Magicka Damage
+	Fatigue Increase
+Frost Salts NAME
+	Speed Decrease
+	Magicka Restoration
+	Frost Resistance
+	Fire Resistance
+	Frost Spells Enhancement
+	Fire Resistance
+	Silence
+	Frost Resistance
+	Fire Vulnerability
+	Frost Resistance
+	Magicka Restoration
+	Conjuration Spells Enhancement
+	Frost Resistance
+	Frost Vulnerability
+Fungus Stalk NAME
+	Strength Restoration
+	Water Walking
+	Increased Health
+	Magicka Restoration
+	Magicka Restoration
+	Increased Health
+	Increased Stamina
+	Water Breathing
+Garlic NAME
+	Disease Resistance
+	Agility Decrease
+	Frost Resistance
+	Strength Increase
+	Poison Resistance
+	Increased Stamina
+	Focus Increase
+	Vitality Increase
+Ghost Flame NAME
+	Fatigue Increase
+	Fatigue Increase
+Ghoul Heart NAME
+	Paralysis
+	Poison Cure
+	Agility Increase
+Ghoul's tongue NAME
+	Polyglotism
+	Polyglotism
+Giant Lichen NAME
+	Shock Vulnerability
+	Health Damage
+	Poison Vulnerability
+	Magicka Restoration
+Giant scorpion stinger NAME
+Giant's blood NAME
+	Diminution
+	Diminution
+Giant's Toe NAME
+	Stamina Damage
+	Increased Health
+	Strength Increase
+	Fatigue Increase
+Gingko Leaf NAME
+	Disease Cure
+	Disease Cure
+	Speed Restoration
+	Increased Magicka
+	Luck Damage
+	Shock Spells Power
+Ginseng NAME
+	Luck Damage
+	Poison Cure
+	Strength Decrease
+	Increased Magicka
+Girith's Guar Hide NAME
+Glacier Flower NAME
+	Luck Increase
+
+
+	Fatigue Increase
+	Luck Increase
+	Fatigue Increase
+Glacier Moss NAME
+	Willpower Increase
+
+
+	Fatigue Increase
+	Willpower Increase
+	Fatigue Increase
+Glassfish NAME
+	Magicka Restoration
+	Invisibility
+	Illusion Spells Enhancement
+	Personality Increase
+Gleamblossom NAME
+	Willpower Increase
+	Fear
+	Vitality Increase
+	Paralysis
+Glow Dust NAME
+	Speed Restoration
+	Light
+	Willpower Increase
+	Health Damage
+	Magicka Damage
+	Focus Decrease
+	Destruction Spells Enhancement
+	Shock Resistance
+	Magicka Restoration
+	Focus Decrease
+Glowing Mushroom NAME
+	Shock Resistance
+	Destruction Spells Enhancement
+	Strength Increase
+	Increased Health
+	Health Restoration
+	Health Restoration
+Gnarl Bark NAME
+	Endurance Restoration
+	Endurance Increase
+	Fire Resistance
+	Health Damage
+	Health Damage
+	Vitality Increase
+	Strength Increase
+	Fire Resistance
+Goblin Wax NAME
+	Speed Increase
+
+
+	Personality Decrease
+
+
+	Strength Decrease
+	Speed Increase
+	Personality Decrease
+	Strength Decrease
+Gold NAME
+	Charming a Mortal
+	Charming a Mortal
+Gold Kanet NAME
+	Health Damage
+	Strength Decrease
+	Luck Damage
+	Strength Restoration
+	Paralysis
+	Health Damage
+	Frost Vulnerability
+	Strength Increase
+Golden poppy NAME
+	Charming a Mortal
+	Charming a Mortal
+Golden Sedge Flowers NAME
+	Magicka Damage
+	Strength Increase
+	Agility Increase
+	Swimming Speed
+Goldfish NAME
+	Stamina Restoration
+	Strength Increase
+	Water Breathing
+	Frost Resistance
+Gorgon snake NAME
+Climbing
+Climbing
+Grahl Eyeball NAME
+	Frost Resistance
+	Night Vision
+	Magicka Damage
+	Strength Increase
+Grapes NAME
+	Fatigue Restoration
+	Water Walking
+	Intelligence Increase
+	Health Damage
+Grass Pod NAME
+	Poison Resistance
+	Magicka Damage
+	Alteration Spells Enhancement
+	Magicka Restoration
+Gravedust NAME
+	Intelligence Decrease
+	Disease Cure
+	Magicka Damage
+	Endurance Restoration
+Gravetar NAME
+	Frost Resistance
+	Health Damage
+	Fatigue Capacity
+	Luck Damage
+Gray Mushroom NAME
+	Speed Increase
+	Speed Increase
+Green berries NAME
+	Health Damage
+	Health Damage
+Green Butterfly Wing NAME
+	Magicka Restoration
+	Fear
+	Speed Decrease
+	Invisibility
+Green leaves NAME
+	Agility Increase
+	Agility Increase
+Green Lichen NAME
+	Personality Increase
+	Disease Cure
+	Strength Decrease
+	Health Damage
+Green Stain Cup Cap NAME
+	Fatigue Restoration
+	Speed Decrease
+	Agility Increase
+	Health Damage
+Green Stain Shelf Cap NAME
+	Luck Restoration
+	Luck Increase
+	Fatigue Increase
+	Health Restoration
+Greenmote NAME
+Greenmote Rapture
+Greenmote Rapture
+Grummite Eggs NAME
+	Magicka Damage
+	Intelligence Increase
+	Chameleon
+	Silence
+Gryphon's feather NAME
+	Slow Fall
+	Slow Fall
+Guar Hide NAME
+	Fatigue Increase
+	Endurance Increase
+	Personality Restoration
+	Luck Increase
+Hackle-Lo Leaf NAME
+	Fatigue Restoration
+	Paralysis
+	Water Breathing
+	Luck Restoration
+	Stamina Restoration
+	Paralysis
+	Water Breathing
+	Restoration Spells Enhancement
+Hagraven Claw NAME
+	Willpower Increase
+	Lingering Magicka Damage
+	Enchanting Enhancement
+	Personality Increase
+Hagraven Feathers NAME
+	Magicka Damage
+	Conjuration Spells Enhancement
+	Frenzy
+	Shock Vulnerability
+Ham NAME
+	Fatigue Restoration
+	Health Restoration
+	Magicka Damage
+	Luck Damage
+Hanging Moss NAME
+	Magicka Damage
+	Increased Health
+	Focus Decrease
+	Strength Increase
+Harrada NAME
+	Health Damage
+	Magicka Damage
+	Silence
+	Paralysis
+	Health Damage
+	Magicka Damage
+	Paralysis
+	Focus Decrease
+Hawk Beak NAME
+	Stamina Restoration
+	Frost Resistance
+	Strength Increase
+	Shock Resistance
+Hawk Feathers NAME
+	Disease Cure
+	Agility Increase
+	Strength Increase
+	Agility Increase
+Hawk's Egg NAME
+	Willpower Increase
+	Focus Decrease
+	Water Breathing
+	Lingering Stamina Damage
+Heart of Order NAME
+Heart of Order NAME
+Jyggalag's Favor
+Jyggalag's Favor
+	Health Restoration
+	Increased Health
+	Strength Increase
+	Strength Increase
+Heart of the Udyrfrykte NAME
+Heart of the Wolf NAME
+Heartwood NAME
+	Magicka Restoration
+	Agility Increase
+	Strength Decrease
+	Fire Vulnerability
+Heather NAME
+	Personality Restoration
+	Strength Increase
+	Speed Decrease
+	Personality Decrease
+Histcarp NAME
+	Stamina Restoration
+	Increased Magicka
+	Fatigue Increase
+	Water Breathing
+Holly Berries NAME
+	Frost Resistance
+	Frost Resistance
+	Frost Spells Enhancement
+	Fire Vulnerability
+Honeycomb NAME
+	Stamina Restoration
+	Strength Increase
+	Agility Increase
+	Stamina Damage
+	Stamina Restoration
+	Fatigue Increase
+Horker Tusk NAME
+	Alteration Spells Weakening
+	Intelligence Increase
+	Increased Magicka
+	Perception Increase
+Horn Lily Bulb NAME
+	Paralysis Resistance
+	Health Damage
+	Strength Restoration
+	Endurance Restoration
+Horrid Tongue NAME
+	Willpower Increase
+	Willpower Increase
+Hound Meat NAME
+	Fatigue Restoration
+	Fatigue Capacity
+	Willpower Increase
+	Intelligence Increase
+	Health Restoration
+	Health Restoration
+Hound Tooth NAME
+	Poison Cure
+	Perception Increase
+	Strength Decrease
+	Invisibility
+Human Flesh NAME
+	Increased Health
+	Intelligence Decrease
+	Personality Decrease
+	Health Damage
+	Paralysis
+	Magicka Restoration
+	Agility Increase
+Human Heart NAME
+	Health Restoration
+	Shock Resistance
+	Magicka Damage
+	Silence
+	Health Damage
+	Magicka Damage
+	Focus Decrease
+	Frenzy
+Human Skin NAME
+	Magicka Damage
+	Shock Resistance
+	Agility Increase
+	Health Damage
+Hunger Tongue NAME
+	Poison Cure
+	Disease Cure
+	Fire Spells Enhancement
+	Increased Magicka
+	Fire Vulnerability
+	Disease Cure
+	Poison Cure
+	Increased Magicka
+Hydnum Azure Giant Spore NAME
+	Endurance Restoration
+	Perception Increase
+	Increased Health
+	Frost Resistance
+	Frost Resistance
+	Increased Health
+	Vitality Increase
+	Light
+Hypha Facia NAME
+	Luck Damage
+	Agility Decrease
+	Fatigue Increase
+	Intelligence Increase
+	Poison Vulnerability
+	Frenzy
+	Stamina Damage
+	Willpower Increase
+Ice Grape NAME
+	Willpower Increase
+	Willpower Increase
+Ice Wraith Teeth NAME
+	Frost Vulnerability
+	Strength Increase
+	Invisibility
+	Fire Vulnerability
+Ichor NAME
+Imp Gall NAME
+	Personality Increase
+	Paralysis Cure
+	Health Damage
+	Fire Spells Enhancement
+	Health Damage
+	Fire Vulnerability
+	Personality Increase
+	Poison Cure
+Imp Stool NAME
+	Health Damage
+	Lingering Health Damage
+	Paralysis
+	Health Restoration
+	Strength Decrease
+	Stamina Damage
+	Endurance Increase
+	Agility Decrease
+	Health Restoration
+	Vitality Decrease
+Iron Ore NAME
+	Slow Fall
+	Slow Fall
+Ironwood Fruit NAME
+	Health Restoration
+	Fire Resistance
+	Stamina Damage
+	Magicka Restoration
+Ironwood Nut NAME
+	Intelligence Restoration
+	Fire Resistance
+	Fatigue Increase
+	Increased Health
+Ivory NAME
+	Frost Resistance
+	Frost Resistance
+Jade NAME
+	Water Breathing
+	Water Breathing
+	Endurance Increase
+	Endurance Increase
+Jarrin Root NAME
+	Health Damage
+	Magicka Damage
+	Stamina Damage
+	Focus Decrease
+Jazbay Grapes NAME
+	Willpower Decrease
+	Increased Magicka
+	Focus Increase
+	Health Damage
+Jumbo Potato NAME
+Juniper Berries NAME
+	Fire Vulnerability
+	Perception Increase
+	Vitality Increase
+	Fatigue Increase
+Juvenile Mudcrab NAME
+	Fatigue Decrease
+	Strength Increase
+	Disease Cure
+	Strength Increase
+Kagouti Hide NAME
+	Fatigue Increase
+	Speed Increase
+	Disease Resistance
+	Night Vision
+	Lingering Stamina Damage
+	Night Vision
+	Strength Increase
+	Shock Resistance
+Kresh Fiber NAME
+	Luck Restoration
+	Personality Increase
+	Magicka Damage
+	Speed Decrease
+	Willpower Decrease
+	Speed Decrease
+	Agility Increase
+	Agility Increase
+Kwama Cuttle NAME
+	Poison Resistance
+	Fatigue Increase
+	Water Walking
+	Water Breathing
+Kwama Egg NAME
+	Fatigue Restoration
+	Paralysis
+	Frost Resistance
+	Increased Health
+	Fatigue Restoration
+	Fatigue Restoration
+Lady's Mantle Leaves NAME
+	Health Restoration
+	Endurance Decrease
+	Night Vision
+	Strength Increase
+Lady's Smock NAME
+	Intelligence Restoration
+	Fire Resistance
+	Fatigue Increase
+	Increased Health
+	Intelligence Increase
+	Magicka Restoration
+	Willpower Decrease
+	Willpower Increase
+Large Antlers NAME
+Large Kwama Egg NAME
+Lavender NAME
+	Personality Restoration
+	Willpower Increase
+	Health Restoration
+	Luck Damage
+	Willpower Increase
+	Increased Stamina
+	Magicka Damage
+	Conjuration Spells Enhancement
+Lead NAME
+	Slow Fall
+	Slow Fall
+Leek NAME
+	Fatigue Restoration
+	Agility Increase
+	Personality Decrease
+	Strength Decrease
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Letifer Orca Digestive Slime NAME
+	Health Damage
+	Fatigue Increase
+	Magicka Damage
+	Fatigue Restoration
+Lettuce NAME
+	Fatigue Restoration
+	Luck Restoration
+	Fire Resistance
+	Personality Decrease
+Lich dust NAME
+	Intelligence Increase
+	Intelligence Increase
+Lichor NAME
+	Magicka Restoration
+	Magicka Restoration
+	Magicka Restoration
+	Focus Increase
+	Increased Magicka
+	Willpower Increase
+Lloramor Spines NAME
+	Willpower Increase
+	Invisibility
+	Poison
+	Intelligence Increase
+Lock Dust NAME
+	Agility Increase
+
+
+	Agility Increase
+	Agility Increase
+	Agility Increase
+Lodestone NAME
+	Agility Increase
+	Agility Increase
+Luminous Russula NAME
+	Water Breathing
+	Fatigue Increase
+	Poison
+	Lingering Stamina Damage
+	Lingering Health Damage
+	Water Breathing
+	Fear
+	Stamina Damage
+	Strength Decrease
+	Health Restoration
+	Speed Decrease
+Luna Moth Wing NAME
+	Magicka Damage
+	Agility Increase
+	Vitality Increase
+	Invisibility
+Lyretail Anthias NAME
+	Magicka Restoration
+	Alteration Spells Enhancement
+	Conjuration Spells Enhancement
+	Strength Increase
+Malachite NAME
+	Silence
+	Silence
+Mana Ice NAME
+	Magicka Restoration
+	Magicka Restoration
+	Magicka Restoration
+	Magicka Restoration
+Mandrake Root NAME
+	Disease Cure
+	Poison Resistance
+	Agility Decrease
+	Willpower Increase
+Marshmerrow NAME
+	Health Restoration
+	Intelligence Increase
+	Willpower Decrease
+	Fatigue Increase
+	Health Restoration
+	Strength Increase
+	Willpower Decrease
+	Stamina Damage
+Marsus' Guar Hide NAME
+Meadow Rye NAME
+	Speed Increase
+	Health Damage
+	Speed Restoration
+	Speed Decrease
+Medium tooth NAME
+Mercury NAME
+	Speed Increase
+	Speed Increase
+Meteor Slime NAME
+Milk Thistle Seeds NAME
+	Light
+	Frost Spells Enhancement
+	Paralysis Cure
+	Paralysis
+Minotaur Horn NAME
+	Willpower Restoration
+	Strength Decrease
+	Endurance Increase
+	Paralysis Resistance
+	Poison Resistance
+	Focus Decrease
+	Vitality Increase
+	Focus Increase
+Monarch Butterfly Wing NAME
+Monkshood Root Pulp NAME
+	Strength Restoration
+	Intelligence Decrease
+	Endurance Increase
+	Strength Decrease
+Moon Sugar NAME
+	Speed Increase
+	Endurance Decrease
+	Luck Damage
+	Fire Vulnerability
+	Frost Resistance
+	Magicka Restoration
+	Focus Increase
+Mora Tapinella NAME
+	Magicka Restoration
+	Lingering Health Damage
+	Fatigue Decrease
+	Illusion Spells Enhancement
+Morning Glory Root Pulp NAME
+	Strength Decrease
+	Willpower Decrease
+	Frost Resistance
+	Magicka Damage
+Mort Flesh NAME
+	Fatigue Increase
+	Luck Damage
+	Increased Health
+	Silence
+	Health Damage
+	Magicka Damage
+	Focus Decrease
+	Frenzy
+Motherwort Sprig NAME
+	Poison Resistance
+	Fatigue Increase
+	Silence
+	Invisibility
+Mountain Flower NAME
+	Endurance Increase
+	Health Restoration
+	Strength Decrease
+	Stamina Restoration
+Mountain Jerky NAME
+	Health Restoration
+
+
+	Magicka Restoration
+
+
+	Fatigue Restoration
+	Health Restoration
+	Magicka Restoration
+	Fatigue Restoration
+Muck NAME
+	Intelligence Decrease
+	Perception Increase
+	Personality Decrease
+	Disease Cure
+Mudcrab Chitin NAME
+	Stamina Restoration
+	Disease Cure
+	Poison Resistance
+	Fire Resistance
+	Willpower Increase
+	Endurance Increase
+	Endurance Increase
+	Vitality Decrease
+Muffin NAME
+	Fatigue Restoration
+	Fatigue Restoration
+	Fatigue Restoration
+	Fatigue Restoration
+Mugwort Seeds NAME
+	Health Restoration
+	Health Restoration
+Mummy wrappings NAME
+	Perception Increase
+	Perception Increase
+Mute Screaming Maw NAME
+Mutton NAME
+	Increased Health
+	Fatigue Increase
+	Intelligence Increase
+	Magicka Damage
+Namira's Rot NAME
+	Magicka Damage
+	Agility Increase
+	Fear
+	Vitality Increase
+	Willpower Increase
+	Speed Increase
+	Invisibility
+	Paralysis Resistance
+Nectar NAME
+Netch Jelly NAME
+	Paralysis
+	Strength Increase
+	Stamina Restoration
+	Fear
+Netch Leather NAME
+	Endurance Increase
+	Intelligence Increase
+	Personality Decrease
+	Paralysis Cure
+Nightshade NAME
+	Health Damage
+	Strength Decrease
+	Luck Damage
+	Increased Magicka
+	Health Damage
+	Focus Decrease
+	Lingering Stamina Damage
+	Destruction Spells Enhancement
+	Health Damage
+	Endurance Increase
+	Lingering Health Damage
+	Vitality Decrease
+Nirnroot NAME
+	Health Damage
+	Fatigue Increase
+	Agility Decrease
+	Speed Decrease
+	Health Damage
+	Stamina Damage
+	Invisibility
+	Willpower Increase
+	Health Damage
+	Willpower Decrease
+	Agility Decrease
+	Invisibility
+Nirthfly Stalks NAME
+	Health Damage
+	Speed Increase
+	Speed Restoration
+	Speed Decrease
+Noble Sedge Flowers NAME
+	Health Damage
+	Agility Restoration
+	Poison
+	Agility Increase
+Nordic Barnacle NAME
+	Magicka Damage
+	Water Breathing
+	Vitality Increase
+	Agility Increase
+Nymph hair NAME
+	Personality Increase
+	Personality Increase
+Ogre's Teeth NAME
+	Intelligence Decrease
+	Paralysis Resistance
+	Shock Spells Power
+	Strength Increase
+	Shock Vulnerability
+	Poison Resistance
+	Lingering Magicka Damage
+	Vitality Increase
+Onion NAME
+	Fatigue Restoration
+	Water Breathing
+	Perception Increase
+	Health Damage
+Orange NAME
+	Fatigue Restoration
+	Perception Increase
+	Strength Decrease
+	Endurance Increase
+Orange Dartwing NAME
+	Stamina Restoration
+	Magicka Damage
+	Agility Increase
+	Lingering Health Damage
+Orc's Blood NAME
+	Strength Increase
+	Strength Increase
+Painted Troll Fat NAME
+	Increased Magicka
+	Health Restoration
+	Increased Health
+	Magicka Restoration
+Palm NAME
+	Levitation
+	Levitation
+Pear NAME
+	Fatigue Restoration
+	Speed Decrease
+	Speed Increase
+	Health Damage
+Pearl NAME
+	Water Breathing
+	Water Breathing
+	Agility Decrease
+	Water Breathing
+	Disease Resistance
+	Stamina Restoration
+	Strength Increase
+	Magicka Restoration
+	Shock Resistance
+	Stamina Restoration
+	Strength Increase
+	Restoration Spells Enhancement
+	Frost Resistance
+Pearlfish NAME
+	Stamina Restoration
+	Frost Resistance
+	Strength Increase
+	Strength Increase
+Peony Seeds NAME
+	Strength Restoration
+	Health Damage
+	Speed Decrease
+	Fatigue Restoration
+Persa Flower NAME
+	Agility Increase
+	Agility Increase
+Pig's Sac NAME
+	Endurance Increase
+
+
+Strength
+	Endurance Increase
+Strength
+Pine branch NAME
+	Willpower Increase
+	Willpower Increase
+Pine Thrush Egg NAME
+	Stamina Restoration
+	Agility Increase
+	Poison Vulnerability
+	Shock Resistance
+Pinetear NAME
+Platinum NAME
+	Invisibility
+	Invisibility
+Poison NAME
+	Poison Vulnerability
+	Fatigue Increase
+	Health Damage
+	Poison
+Poison Bloom NAME
+	Health Damage
+	Speed Decrease
+	Strength Increase
+	Fear
+Poisoned Apple NAME
+	Poison
+	Poison
+Potato NAME
+	Fatigue Restoration
+	Endurance Increase
+	Strength Decrease
+	Frost Resistance
+	Health Restoration
+	Health Restoration
+Powdered Mammoth Tusk NAME
+	Stamina Restoration
+	Agility Increase
+	Fire Vulnerability
+	Fear
+Powdered Mother of Pearl NAME
+	Lingering Health Restoration
+	Speed Increase
+	Vitality Increase
+	Endurance Increase
+Primrose Leaves NAME
+	Willpower Restoration
+	Personality Restoration
+	Luck Increase
+	Strength Decrease
+Pumpkin NAME
+	Fatigue Restoration
+	Agility Decrease
+	Personality Decrease
+	Perception Increase
+Pure water NAME
+Purgeblood Salts NAME
+	Magicka Restoration
+	Health Damage
+	Increased Magicka
+	Intelligence Increase
+Purple Butterfly Wing NAME
+	Vitality Increase
+	Focus Increase
+	Fatigue Decrease
+	Paralysis
+Purple Mountain Flower NAME
+	Stamina Restoration
+	Agility Increase
+	Lingering Magicka Damage
+	Frost Resistance
+Pygmy Sunfish NAME
+	Stamina Restoration
+	Lingering Magicka Damage
+	Focus Decrease
+	Restoration Spells Enhancement
+Racer Plumes NAME
+	Willpower Decrease
+	Levitation
+Radish NAME
+	Fatigue Restoration
+	Endurance Decrease
+	Chameleon
+	Strength Decrease
+Raider Chew NAME
+	Strength Increase
+
+
+	Intelligence Decrease
+
+
+	Agility Decrease
+	Strength Increase
+	Intelligence Decrease
+	Agility Decrease
+Rain water NAME
+Rat Meat NAME
+	Magicka Damage
+	Paralysis
+	Poison Cure
+	Poison Resistance
+	Fatigue Increase
+	Perception Increase
+	Magicka Damage
+	Silence
+Rat Poison NAME
+Rat Poison
+Rat Poison
+Rat's Eye NAME
+	Strength Increase
+	Strength Increase
+Raw Ebony NAME
+	Agility Decrease
+	Poison Cure
+	Frost Resistance
+	Speed Restoration
+Raw Glass NAME
+	Intelligence Decrease
+	Strength Decrease
+	Speed Decrease
+	Fire Resistance
+Raw Stalhrim NAME
+	Frost Resistance
+	Frost Spells Enhancement
+	Paralysis
+	Health Restoration
+Red berries NAME
+	Fire Resistance
+	Fire Resistance
+Red flowers NAME
+	Stamina Damage
+	Stamina Damage
+Red Kelp Gas Bladder NAME
+	Speed Restoration
+	Water Breathing
+	Disease Cure
+	Increased Magicka
+	Fatigue Decrease
+	Water Breathing
+	Disease Cure
+	Increased Magicka
+Red Lichen NAME
+	Speed Decrease
+	Light
+	Disease Cure
+	Magicka Damage
+Red Mountain Flower NAME
+	Magicka Restoration
+	Magicka Damage
+	Increased Magicka
+	Health Damage
+Red Mushroom NAME
+	Increased Health
+	Increased Health
+Red poppy NAME
+	Strength Decrease
+	Strength Decrease
+Red rose NAME
+	Intelligence Increase
+	Intelligence Increase
+Redwort Flower NAME
+	Frost Resistance
+	Poison Cure
+	Health Damage
+	Invisibility
+	Frost Resistance
+	Poison Cure
+	Health Damage
+	Invisibility
+Refined Frost Salts NAME
+Resin NAME
+	Health Restoration
+	Speed Restoration
+	Strength Decrease
+	Disease Resistance
+Rice NAME
+	Fatigue Restoration
+	Silence
+	Shock Resistance
+	Agility Decrease
+River Betty NAME
+	Health Damage
+	Alteration Spells Enhancement
+	Speed Decrease
+	Strength Increase
+Rock Warbler Egg NAME
+	Health Restoration
+	Strength Increase
+	Stamina Damage
+	Willpower Decrease
+Roland's Tear NAME
+Roobrush NAME
+	Willpower Decrease
+	Agility Increase
+	Health Damage
+	Poison Cure
+	Willpower Decrease
+	Agility Increase
+	Lingering Health Damage
+	Poison Cure
+Root bulb NAME
+	Vitality Increase
+	Vitality Increase
+Root Pulp NAME
+	Disease Cure
+	Willpower Decrease
+	Strength Increase
+	Intelligence Decrease
+Root tendrils NAME
+	Diminution
+	Diminution
+Rot Scale NAME
+	Strength Decrease
+	Health Damage
+	Silence
+	Paralysis
+	Speed Decrease
+	Lingering Health Damage
+	Fear
+	Paralysis
+Ruby NAME
+	Willpower Increase
+	Willpower Increase
+	Health Damage
+	Strength Increase
+	Intelligence Restoration
+	Agility Decrease
+Rumare Slaughterfish Scales NAME
+Sabre Cat Tooth NAME
+	Stamina Restoration
+	Strength Increase
+	Strength Increase
+	Poison Vulnerability
+Sacred Lotus Seeds NAME
+	Frost Resistance
+	Health Damage
+	Strength Increase
+	Intelligence Increase
+Saint's hair NAME
+	Disease Cure
+	Disease Cure
+Salamander NAME
+Salmon Roe NAME
+	Stamina Restoration
+	Water Breathing
+	Increased Magicka
+	Focus Increase
+Salt Pile NAME
+	Willpower Decrease
+	Restoration Spells Enhancement
+	Speed Decrease
+	Focus Increase
+Saltrice NAME
+	Fatigue Restoration
+	Increased Magicka
+	Strength Decrease
+	Health Restoration
+	Stamina Restoration
+	Increased Magicka
+	Fatigue Increase
+	Health Restoration
+Sapphire NAME
+	Willpower Increase
+	Willpower Increase
+Scalon Fin NAME
+	Water Breathing
+	Health Damage
+	Shock Spells Power
+	Strength Decrease
+	Water Breathing
+	Health Damage
+	Lingering Magicka Damage
+	Focus Decrease
+Scaly Pholiota NAME
+	Willpower Decrease
+	Illusion Spells Enhancement
+	Fatigue Decrease
+	Strength Increase
+Scamp Skin NAME
+	Magicka Damage
+	Paralysis Cure
+	Personality Restoration
+	Strength Restoration
+	Magicka Damage
+	Shock Resistance
+	Agility Increase
+	Health Damage
+Scathecraw NAME
+	Strength Decrease
+	Poison Cure
+	Health Damage
+	Willpower Restoration
+	Health Damage
+	Stamina Damage
+	Magicka Damage
+	Lingering Health Damage
+Scorpion Stinger NAME
+	Health Damage
+	Health Damage
+	Health Damage
+	Health Damage
+Scrap Metal NAME
+	Health Damage
+	Shock Resistance
+	Shock Resistance
+	Intelligence Restoration
+Screaming Maw NAME
+	Willpower Restoration
+	Perception Increase
+	Chameleon
+	Health Restoration
+	Focus Increase
+	Alteration Spells Enhancement
+	Invisibility
+	Vitality Increase
+Scrib Cabbage NAME
+	Intelligence Decrease
+	Health Damage
+	Agility Restoration
+	Agility Increase
+Scrib Jelly NAME
+	Willpower Increase
+	Poison Cure
+	Blight Disease Cure
+	Willpower Restoration
+	Focus Increase
+	Poison Cure
+	Disease Cure
+	Fatigue Decrease
+	Magicka Damage
+	Speed Increase
+	Endurance Decrease
+	Lingering Health Restoration
+Scrib Jerky NAME
+	Fatigue Restoration
+	Fatigue Capacity
+	Strength Decrease
+	Swimming Speed
+	Stamina Restoration
+	Increased Stamina
+	Paralysis
+	Water Breathing
+Scythe Crystals NAME
+Attack nearby enemies
+Attack nearby enemies
+Shadowbane NAME
+Shadowseed NAME
+	Strength Increase
+	Intelligence Increase
+	Agility Increase
+	Speed Increase
+	Perception Increase
+	Luck Increase
+	Endurance Increase
+	Willpower Increase
+	Strength Increase
+	Intelligence Increase
+	Agility Increase
+	Speed Increase
+	Perception Increase
+	Luck Increase
+	Endurance Increase
+	Willpower Increase
+Shalk Resin NAME
+	Fatigue Increase
+	Increased Health
+	Personality Decrease
+	Speed Increase
+Shepherd's Pie NAME
+	Disease Cure
+	Endurance Increase
+	Agility Increase
+	Intelligence Increase
+	Increased Health
+
+
+	Increased Stamina
+	Increased Health
+	Increased Stamina
+Silver NAME
+Cure Magic
+Cure Magic
+Silverside Perch NAME
+	Stamina Restoration
+	Fatigue Increase
+	Health Damage
+	Frost Resistance
+S'jirra's Famous Potato Bread NAME
+	Perception Increase
+	Health Restoration
+	Agility Decrease
+	Strength Decrease
+Skeever Tail NAME
+	Fatigue Increase
+	Health Damage
+	Health Damage
+	Agility Increase
+Slaughterfish Egg NAME
+	Poison Resistance
+	Agility Increase
+	Lingering Health Damage
+	Increased Stamina
+Slaughterfish Scales NAME
+	Personality Decrease
+	Water Walking
+	Endurance Restoration
+	Swimming Speed
+	Willpower Decrease
+	Water Breathing
+	Health Damage
+	Water Walking
+	Frost Resistance
+	Lingering Health Damage
+	Strength Increase
+	Strength Increase
+Sload Soap NAME
+	Personality Decrease
+	Agility Increase
+	Fire Resistance
+	Agility Restoration
+	Fire Resistance
+	Fear
+	Conjuration Spells Enhancement
+	Alteration Spells Enhancement
+Smack Water NAME
+	Strength Increase
+	Strength Increase
+Small Antlers NAME
+Small Kwama Egg NAME
+Small Pearl NAME
+Small scorpion stinger NAME
+Small tooth NAME
+Smoked Baliwog Leg NAME
+	Fatigue Restoration
+	Strength Increase
+	Health Restoration
+	Fatigue Increase
+Snake venom NAME
+	Willpower Increase
+	Willpower Increase
+Snow Bear Pelt NAME
+	Fatigue Increase
+	Speed Increase
+	Disease Resistance
+	Night Vision
+Snow Wolf Pelt NAME
+	Fatigue Increase
+	Speed Increase
+	Disease Resistance
+	Night Vision
+Snowberries NAME
+	Fire Resistance
+	Enchanting Enhancement
+	Frost Resistance
+	Shock Resistance
+	Health Restoration
+	Health Restoration
+Snowray Powder NAME
+	Endurance Increase
+	Endurance Increase
+Somnalius Frond NAME
+	Speed Restoration
+	Endurance Decrease
+	Increased Health
+	Strength Increase
+Spadefish NAME
+	Health Restoration
+	Agility Increase
+	Agility Increase
+	Disease Cure
+Spawn Ash NAME
+	Stamina Damage
+	Fire Resistance
+	Enchanting Enhancement
+	Magicka Damage
+Spell Web Thread NAME
+	Willpower Increase
+	Willpower Increase
+Spiddal Stick NAME
+	Health Damage
+	Magicka Damage
+	Fire Spells Enhancement
+	Fatigue Restoration
+	Health Damage
+	Magicka Damage
+	Fire Vulnerability
+	Stamina Restoration
+Spider Egg NAME
+	Stamina Damage
+	Focus Decrease
+	Agility Increase
+	Perception Increase
+	Speed Decrease
+	Invisibility
+	Lingering Health Restoration
+	Vitality Decrease
+Spider Heart NAME
+	Agility Increase
+	Agility Increase
+Spider's venom NAME
+	Paralysis
+	Paralysis
+Spore Pod NAME
+	Strength Decrease
+	Fatigue Increase
+	Perception Increase
+	Paralysis
+Spriggan Sap NAME
+	Focus Decrease
+	Enchanting Enhancement
+	Strength Increase
+	Alteration Spells Enhancement
+Spriggan's Ear NAME
+St. Jahn's Wort Nectar NAME
+	Shock Resistance
+	Health Damage
+	Poison Cure
+	Chameleon
+Steel-Blue Entoloma Cap NAME
+	Magicka Restoration
+	Fire Spells Enhancement
+	Frost Resistance
+	Strength Decrease
+	Magicka Restoration
+	Destruction Spells Enhancement
+	Frost Resistance
+	Strength Increase
+Stew NAME
+	Fatigue Restoration
+	Fatigue Restoration
+Stinkhorn NAME
+	Health Damage
+	Magicka Restoration
+	Water Walking
+	Invisibility
+	Endurance Decrease
+	Health Damage
+	Strength Increase
+	Stamina Damage
+Stoneflower Petals NAME
+	Strength Restoration
+	Increased Magicka
+	Luck Damage
+	Personality Increase
+	Shock Vulnerability
+	Strength Increase
+	Increased Magicka
+	Enchanting Enhancement
+Strawberry NAME
+	Fatigue Restoration
+	Poison Cure
+	Health Damage
+	Agility Increase
+Sulphur NAME
+	Fire Resistance
+	Fire Resistance
+Summer Bolete Cap NAME
+	Agility Restoration
+	Endurance Increase
+	Personality Decrease
+	Endurance Decrease
+Sunlight Water NAME
+	Endurance Increase
+
+
+	Willpower Increase
+	Endurance Increase
+	Willpower Increase
+Swamp Fungal Pod NAME
+	Shock Resistance
+	Lingering Magicka Damage
+	Paralysis
+	Health Restoration
+Swamp Tentacle NAME
+	Personality Restoration
+	Water Breathing
+	Water Walking
+	Increased Health
+Sweetcake NAME
+	Fatigue Restoration
+	Strength Increase
+	Health Restoration
+	Strength Decrease
+Sweetpulp NAME
+	Paralysis
+	Levitation
+	Paralysis Resistance
+	Health Restoration
+Sweetroll NAME
+	Fatigue Restoration
+	Disease Resistance
+	Personality Decrease
+	Increased Health
+	Health Restoration
+	Health Restoration
+	Increased Magicka
+
+
+	Increased Stamina
+	Increased Magicka
+	Increased Stamina
+	Health Restoration
+	Health Restoration
+References NAME
+Taproot NAME
+	Luck Restoration
+	Endurance Decrease
+	Poison Resistance
+	Shock Resistance
+	Willpower Decrease
+	Illusion Spells Enhancement
+	Focus Increase
+	Magicka Restoration
+Thistle Branch NAME
+	Frost Resistance
+	Stamina Damage
+	Poison Resistance
+	Strength Increase
+	Health Restoration
+	Health Restoration
+Thorn Hook NAME
+	Health Damage
+	Luck Damage
+	Magicka Restoration
+	Increased Health
+	Lingering Health Damage
+	Paralysis
+	Focus Increase
+	Vitality Increase
+Thunder Herb NAME
+	Strength Increase
+	Strength Increase
+Tiger Lily Nectar NAME
+	Endurance Restoration
+	Strength Decrease
+	Water Walking
+	Willpower Decrease
+Timsa-Come-By flowers NAME
+	Paralysis Resistance
+	Magicka Damage
+	Endurance Restoration
+Tin NAME
+	Paralysis Cure
+	Paralysis Cure
+Tinder Polypore Cap NAME
+	Willpower Restoration
+	Disease Resistance
+	Invisibility
+	Magicka Damage
+Toad Muffin NAME
+	Fatigue Restoration
+
+
+	Magicka Restoration
+	Fatigue Restoration
+	Magicka Restoration
+Tobacco NAME
+	Fatigue Restoration
+	Paralysis Resistance
+	Magicka Damage
+	Intelligence Increase
+Tomato NAME
+	Fatigue Restoration
+	Perception Increase
+	Strength Decrease
+	Endurance Increase
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Tooth NAME
+	Willpower Increase
+	Willpower Increase
+	Willpower Increase
+	Willpower Increase
+Topaz Dust NAME
+	Personality Increase
+
+
+	Agility Decrease
+
+
+	Luck Damage
+	Personality Increase
+	Agility Decrease
+	Luck Damage
+Torchbug Thorax NAME
+	Stamina Restoration
+	Lingering Magicka Damage
+	Willpower Decrease
+	Increased Stamina
+	Endurance Decrease
+	Agility Decrease
+	Perception Increase
+	Vitality Increase
+Trama Root NAME
+	Willpower Restoration
+	Levitation
+	Magicka Damage
+	Speed Decrease
+	Shock Vulnerability
+	Strength Increase
+	Magicka Damage
+	Speed Decrease
+Treated Bittergreen Petals NAME
+Tremble Weed NAME
+	Speed Increase
+
+
+	Fatigue Increase
+	Speed Increase
+	Fatigue Increase
+Troll Blood NAME
+	Vitality Increase
+	Vitality Increase
+	Agility Increase
+
+
+	Endurance Increase
+	Agility Increase
+	Endurance Increase
+Troll Fat NAME
+	Agility Decrease
+	Personality Increase
+	Willpower Decrease
+	Health Damage
+	Poison Resistance
+	Strength Increase
+	Frenzy
+	Health Damage
+Tundra Cotton NAME
+	Willpower Increase
+	Increased Magicka
+	Strength Increase
+	Personality Increase
+Turquoise NAME
+	Water Walking
+	Water Walking
+Twigs NAME
+	Slow Fall
+	Slow Fall
+Umbric Fur NAME
+	Strength Increase
+
+
+	Endurance Increase
+
+
+	Endurance Increase
+	Strength Increase
+	Endurance Increase
+	Endurance Increase
+Unicorn Horn NAME
+	Perception Increase
+	Perception Increase
+	Increased Health
+	Increased Health
+Unrefined Greenmote NAME
+	Fatigue Increase
+	Health Damage
+	Magicka Damage
+	Intelligence Decrease
+Vampire Dust NAME
+	Increased Health
+	Strength Increase
+	Willpower Increase
+	Vampirism
+	Silence
+	Disease Resistance
+	Frost Spells Enhancement
+	Invisibility
+	Invisibility
+	Magicka Restoration
+	Vitality Increase
+	Disease Cure
+Venison NAME
+	Health Restoration
+	Strength Increase
+	Health Damage
+	Chameleon
+	Health Restoration
+	Health Restoration
+	Health Restoration
+	Health Restoration
+Vicar Herb NAME
+	Health Restoration
+
+
+	Magicka Restoration
+	Health Restoration
+	Magicka Restoration
+	Health Restoration
+
+
+	Magicka Restoration
+	Health Restoration
+	Magicka Restoration
+Violet Coprinus NAME
+	Water Walking
+	Fatigue Increase
+	Poison
+	Willpower Decrease
+	Health Damage
+	Intelligence Increase
+	Magicka Damage
+Viper's Bugloss Leaves NAME
+	Paralysis Resistance
+	Night Vision
+	Strength Decrease
+	Paralysis Cure
+Void Essence NAME
+	Health Restoration
+	Increased Health
+	Strength Increase
+	Endurance Increase
+	Health Restoration
+	Increased Health
+	Increased Stamina
+	Vitality Increase
+Void Salts NAME
+	Magicka Restoration
+	Willpower Increase
+	Paralysis
+	Endurance Decrease
+	Magicka Restoration
+	Health Damage
+	Increased Magicka
+	Intelligence Increase
+	Shock Vulnerability
+	Willpower Increase
+	Health Damage
+	Increased Magicka
+	Shock Resistance
+	Shock Vulnerability
+Warrior Bread NAME
+	Fatigue Restoration
+
+
+	Health Restoration
+	Fatigue Restoration
+	Health Restoration
+Watcher's Eye NAME
+	Intelligence Restoration
+	Increased Magicka
+	Light
+	Willpower Increase
+	Night Vision
+	Increased Magicka
+	Illusion Spells Enhancement
+	Willpower Increase
+Water Hyacinth NAME
+	Luck Damage
+	Fatigue Increase
+	Magicka Restoration
+	Increased Magicka
+	Health Restoration
+	Willpower Increase
+	Agility Increase
+	Paralysis
+Water Root Pod Pit NAME
+	Health Restoration
+	Fire Resistance
+	Fire Resistance
+	Water Breathing
+Watermelon NAME
+	Fatigue Restoration
+	Light
+	Strength Decrease
+	Health Damage
+Wereboar's tusk NAME
+	Strength Increase
+	Strength Increase
+Werewolf's blood NAME
+Cure Magic
+Cure Magic
+Wheat NAME
+	Fatigue Restoration
+	Magicka Damage
+	Increased Health
+	Personality Decrease
+	Health Restoration
+	Increased Health
+	Fatigue Increase
+	Lingering Magicka Damage
+White Cap NAME
+	Frost Vulnerability
+	Strength Increase
+	Magicka Restoration
+	Magicka Damage
+	Fear
+	Magicka Damage
+	Willpower Increase
+	Perception Increase
+White poppy NAME
+	Intelligence Decrease
+	Intelligence Decrease
+White rose NAME
+	Intelligence Increase
+	Intelligence Increase
+White Seed Pod NAME
+	Strength Restoration
+	Water Breathing
+	Silence
+	Light
+Wickeder Skin NAME
+	Endurance Increase
+
+
+	Endurance Increase
+	Endurance Increase
+	Endurance Increase
+Wickwheat NAME
+	Health Restoration
+	Willpower Increase
+	Paralysis
+	Intelligence Decrease
+Wild Grass Pod NAME
+	Poison Resistance
+	Magicka Damage
+	Alteration Spells Enhancement
+	Magicka Restoration
+Willow Anther NAME
+	Personality Decrease
+	Frost Resistance
+	Disease Cure
+	Paralysis Cure
+Wisp Core NAME
+	Intelligence Restoration
+	Strength Decrease
+	Light
+	Chameleon
+Wisp Stalk Caps NAME
+	Health Damage
+	Willpower Decrease
+	Intelligence Decrease
+	Speed Increase
+	Health Damage
+	Poison Vulnerability
+	Frenzy
+	Fatigue Decrease
+Wisp Wrappings NAME
+	Stamina Restoration
+	Destruction Spells Enhancement
+	Strength Increase
+	Willpower Increase
+Withering Moon NAME
+	Magicka Restoration
+	Endurance Increase
+	Disease Cure
+	Willpower Increase
+	Magicka Restoration
+	Willpower Increase
+	Agility Increase
+	Disease Cure
+Wolf Pelt NAME
+	Fatigue Increase
+	Speed Increase
+	Disease Resistance
+	Night Vision
+Wolfsbane Petals NAME
+	Intelligence Restoration
+	Invisibility
+	Endurance Decrease
+	Magicka Damage
+Worm's Head Cap NAME
+	Luck Restoration
+	Night Vision
+	Fatigue Capacity
+	Paralysis
+	Agility Increase
+	Night Vision
+	Strength Increase
+	Speed Decrease
+Wormwood NAME
+	Fatigue Capacity
+	Invisibility
+	Health Damage
+	Magicka Damage
+	Agility Increase
+	Speed Decrease
+	Perception Increase
+	Paralysis Resistance
+Wraith essence NAME
+	Willpower Decrease
+	Willpower Decrease
+Yellow berries NAME
+	Speed Increase
+	Speed Increase
+Yellow flowers NAME
+	Chameleon
+	Chameleon
+Yellow Mountain Flower NAME
+	Poison Resistance
+	Restoration Spells Enhancement
+	Increased Health
+	Fatigue Increase
+Yellow rose NAME
+	Lycanthropy
+	Lycanthropy
+Zombie Dust NAME
+	Endurance Increase
+	Endurance Increase
+
