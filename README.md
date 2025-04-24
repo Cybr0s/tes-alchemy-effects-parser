@@ -1,4 +1,4 @@
-### 🧪 **The Elder Scrolls Alchemy Reagents Parser**
+### 🧪 **The Elder Scrolls Alchemy Effects Parser**
 A custom data-cleaning script created to process and unify alchemy reagent data scraped from the [Unofficial Elder Scrolls Pages](https://en.uesp.net/wiki/Lore:Alchemy_A), as part of a personal role-playing experience in The Elder Scrolls universe.
 
 ### 📌 **Purpose**
